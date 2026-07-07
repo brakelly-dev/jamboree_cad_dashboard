@@ -40,11 +40,20 @@ st.markdown("""
 
     /* Main content area */
     .block-container {
-        padding-top: 1.25rem;
+        padding-top: 3.5rem;
         padding-bottom: 2rem;
         max-width: 1200px;
     }
+      
+    /* Also push the very top of the app down */
+    .stApp > header {
+        background-color: transparent;
+    }
 
+    section[data-testid="stSidebar"] {
+        margin-top: 0;
+    }
+            
     /* Force metric cards to white */
     div[data-testid="stMetric"] {
         background-color: #FFFFFF !important;
@@ -91,8 +100,9 @@ st.markdown("""
     div[data-testid="stPlotlyChart"] {
         background-color: #FFFFFF;
         border-radius: 12px;
-        padding: 12px;
+        padding: 16px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+        overflow: visible !important;   /* prevents clipping */
     }
 
     /* Dataframe/table — white background */
@@ -173,14 +183,15 @@ def status_badge(status: str) -> str:
 
 
 def fmt_time(ts) -> str:
-    if ts is None or (isinstance(ts, float) and pd.isna(ts)):
+    if ts is None:
         return "—"
-    if isinstance(ts, str):
-        return ts
     try:
-        return pd.Timestamp(ts).strftime("%-I:%M %p")
+        ts_parsed = pd.Timestamp(ts)
+        if pd.isna(ts_parsed):
+            return "—"
+        return ts_parsed.strftime("%-I:%M %p")
     except Exception:
-        return str(ts)
+        return "—"
 
 
 def fmt_variance(v) -> str:
@@ -287,9 +298,12 @@ with chart_right:
     st.markdown("##### Transportation Type")
     st.plotly_chart(transport_donut(stats["motor_coach"], stats["personal_vehicle"]),
                     use_container_width=True)
-    st.caption(
-        f"Motor coach: **{stats['motor_coach']}**  ·  "
-        f"Personal vehicle: **{stats['personal_vehicle']}**"
+    st.markdown(
+        f"<div style='text-align:center; margin-top:8px; font-size:0.8rem; color:#4A5568;'>"
+        f"<span style='margin-right:12px;'>🔵 Motor coach: <strong>{stats['motor_coach']}</strong></span>"
+        f"<span>🟢 Personal vehicle: <strong>{stats['personal_vehicle']}</strong></span>"
+        f"</div>",
+        unsafe_allow_html=True
     )
 
 
@@ -368,13 +382,63 @@ for _, row in display_df.iterrows():
         "Notes":      row["last_checkin_notes"],
     })
 
+## Make Table
 if table_rows:
     table_df = pd.DataFrame(table_rows)
-    st.write(
-        table_df.to_html(escape=False, index=False, classes="dataframe"),
-        unsafe_allow_html=True,
+    table_html = table_df.to_html(escape=False, index=False, classes="unit-table")
+    
+    st.markdown(f"""
+    <div style="
+        background-color: #FFFFFF;
+        border-radius: 12px;
+        padding: 16px 20px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+        overflow-x: auto;
+    ">
+        <style>
+            .unit-table {{
+                width: 100%;
+                border-collapse: collapse;
+                font-size: 0.82rem;
+                color: #1A202C;
+            }}
+            .unit-table thead tr {{
+                border-bottom: 2px solid #E2E8F0;
+            }}
+            .unit-table th {{
+                text-align: left;
+                padding: 8px 12px;
+                font-size: 0.72rem;
+                font-weight: 600;
+                color: #4A5568;
+                text-transform: uppercase;
+                letter-spacing: 0.05em;
+                white-space: nowrap;
+                background-color: #FFFFFF;
+            }}
+            .unit-table td {{
+                padding: 10px 12px;
+                border-bottom: 1px solid #EDF2F7;
+                color: #1A202C;
+                vertical-align: middle;
+                background-color: #FFFFFF;
+            }}
+            .unit-table tbody tr:last-child td {{
+                border-bottom: none;
+            }}
+            .unit-table tbody tr:hover td {{
+                background-color: #F7FAFC;
+            }}
+        </style>
+        {table_html}
+    </div>
+    """, unsafe_allow_html=True)
+    
+    st.markdown(
+        f"<p style='color:#A0AEC0; font-size:0.75rem; margin-top:6px;'>"
+        f"Showing {len(display_df)} of {len(unit_df)} units</p>",
+        unsafe_allow_html=True
     )
-    st.caption(f"Showing {len(display_df)} of {len(unit_df)} units")
 else:
     st.info("No units match the current filters.")
 
