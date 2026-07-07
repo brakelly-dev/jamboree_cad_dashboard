@@ -1,7 +1,7 @@
 [
 theme
 ]
-base = "dark"
+base = "light"
 backgroundColor = "#1B2A4A"
 secondaryBackgroundColor = "#16233D"
 primaryColor = "#C41230"

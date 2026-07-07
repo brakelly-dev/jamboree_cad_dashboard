@@ -33,20 +33,126 @@ st.set_page_config(
 # ── Minimal custom CSS ────────────────────────────────────────────────────────
 st.markdown("""
 <style>
-    .block-container { padding-top: 1.25rem; padding-bottom: 2rem; max-width: 1200px; }
-    .metric-card { background: #16233D; border-radius: 10px; padding: 14px 18px; }
-    .metric-value { font-size: 2rem; font-weight: 500; line-height: 1.1; }
-    .metric-label { font-size: 0.75rem; color: #A0AEC0; text-transform: uppercase;
-                    letter-spacing: .06em; margin-bottom: 4px; }
-    .status-pill { display: inline-block; padding: 2px 10px; border-radius: 999px;
-                   font-size: 0.72rem; font-weight: 500; }
-    .unmatched-banner { background: #7C1A1A; border-radius: 8px; padding: 10px 14px;
-                        font-size: 0.82rem; color: #FCA5A5; margin-bottom: 1rem; }
-    div[data-testid="stMetric"] { background: #16233D; border-radius: 10px;
-                                   padding: 12px 16px; border: 1px solid #2D4068; }
-    div[data-testid="stMetricLabel"] { color: #A0AEC0 !important; }
-    hr { border-color: #2D4068; }
-    .header-rule { border-top: 2px solid #C41230; margin: 0.5rem 0 1rem 0; }
+    /* Page background */
+    .stApp {
+        background-color: #1B2A4A;
+    }
+
+    /* Main content area */
+    .block-container {
+        padding-top: 1.25rem;
+        padding-bottom: 2rem;
+        max-width: 1200px;
+    }
+
+    /* Force metric cards to white */
+    div[data-testid="stMetric"] {
+        background-color: #FFFFFF !important;
+        border-radius: 12px !important;
+        padding: 16px 18px !important;
+        border: none !important;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+    }
+
+    /* Metric label text — dark so it reads on white */
+    div[data-testid="stMetricLabel"] p {
+        color: #4A5568 !important;
+        font-size: 0.75rem !important;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        font-weight: 500;
+    }
+
+    /* Metric value text — dark on white */
+    div[data-testid="stMetricValue"] {
+        color: #1A202C !important;
+        font-size: 2rem !important;
+        font-weight: 600 !important;
+    }
+
+    /* Metric delta text */
+    div[data-testid="stMetricDelta"] {
+        color: #4A5568 !important;
+    }
+    div[data-testid="stMetricDelta"] svg {
+        display: none;  /* hide the delta arrow, looks cleaner */
+    }
+
+    /* Status badge pill */
+    .status-pill {
+        display: inline-block;
+        padding: 2px 10px;
+        border-radius: 999px;
+        font-size: 0.72rem;
+        font-weight: 500;
+    }
+
+    /* Charts and table cards — white background */
+    div[data-testid="stPlotlyChart"] {
+        background-color: #FFFFFF;
+        border-radius: 12px;
+        padding: 12px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+    }
+
+    /* Dataframe/table — white background */
+    div[data-testid="stHtml"] {
+        background-color: #FFFFFF;
+        border-radius: 12px;
+        padding: 12px 16px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+    }
+
+    /* Section headings on dark background */
+    h5, .stMarkdown h5 {
+        color: #FFFFFF !important;
+    }
+
+    /* Caption text */
+    div[data-testid="stCaptionContainer"] p {
+        color: #A0AEC0 !important;
+    }
+
+    /* Divider line */
+    hr {
+        border-color: #2D4068 !important;
+    }
+
+    /* Red accent rule under header */
+    .header-rule {
+        border-top: 2px solid #C41230;
+        margin: 0.5rem 0 1rem 0;
+    }
+
+    /* Unmatched alert banner */
+    .unmatched-banner {
+        background: #7C1A1A;
+        border-radius: 8px;
+        padding: 10px 14px;
+        font-size: 0.82rem;
+        color: #FCA5A5;
+        margin-bottom: 1rem;
+    }
+
+    /* Buttons */
+    div[data-testid="stButton"] button {
+        background-color: #C41230 !important;
+        color: #FFFFFF !important;
+        border: none !important;
+        border-radius: 8px !important;
+        font-weight: 500 !important;
+    }
+    div[data-testid="stButton"] button:hover {
+        background-color: #A10E26 !important;
+    }
+
+    /* Search box and filter selects */
+    div[data-testid="stTextInput"] input,
+    div[data-testid="stSelectbox"] {
+        background-color: #FFFFFF !important;
+        color: #1A202C !important;
+        border-radius: 8px !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
