@@ -33,27 +33,31 @@ st.set_page_config(
 # ── Minimal custom CSS ────────────────────────────────────────────────────────
 st.markdown("""
 <style>
-    .block-container { padding-top: 1.5rem; padding-bottom: 2rem; max-width: 1200px; }
-    .metric-card { background: #f8f7f4; border-radius: 10px; padding: 14px 18px; }
+    .block-container { padding-top: 1.25rem; padding-bottom: 2rem; max-width: 1200px; }
+    .metric-card { background: #16233D; border-radius: 10px; padding: 14px 18px; }
     .metric-value { font-size: 2rem; font-weight: 500; line-height: 1.1; }
-    .metric-label { font-size: 0.75rem; color: #888780; text-transform: uppercase;
+    .metric-label { font-size: 0.75rem; color: #A0AEC0; text-transform: uppercase;
                     letter-spacing: .06em; margin-bottom: 4px; }
     .status-pill { display: inline-block; padding: 2px 10px; border-radius: 999px;
                    font-size: 0.72rem; font-weight: 500; }
-    .unmatched-banner { background: #FAEEDA; border-radius: 8px; padding: 10px 14px;
-                        font-size: 0.82rem; color: #854F0B; margin-bottom: 1rem; }
-    div[data-testid="stMetric"] { background: #f8f7f4; border-radius: 10px; padding: 12px 16px; }
+    .unmatched-banner { background: #7C1A1A; border-radius: 8px; padding: 10px 14px;
+                        font-size: 0.82rem; color: #FCA5A5; margin-bottom: 1rem; }
+    div[data-testid="stMetric"] { background: #16233D; border-radius: 10px;
+                                   padding: 12px 16px; border: 1px solid #2D4068; }
+    div[data-testid="stMetricLabel"] { color: #A0AEC0 !important; }
+    hr { border-color: #2D4068; }
+    .header-rule { border-top: 2px solid #C41230; margin: 0.5rem 0 1rem 0; }
 </style>
 """, unsafe_allow_html=True)
 
 
 # ── Status badge helper ───────────────────────────────────────────────────────
 STATUS_BG = {
-    "Not arrived":   ("#F1EFE8", "#5F5E5A"),
-    "At Ruby":       ("#FAEEDA", "#854F0B"),
-    "At South Gate": ("#E6F1FB", "#185FA5"),
-    "On-site":       ("#EAF3DE", "#3B6D11"),
-    "Checked-in":    ("#F3E8FF", "#6B21A8"),
+    "Not arrived":   ("#2D3748", "#A0AEC0"),
+    "At Ruby":       ("#7C3A00", "#FBBF24"),
+    "At South Gate": ("#1E3A5F", "#60A5FA"),
+    "On-site":       ("#14532D", "#86EFAC"),
+    "Checked-in":    ("#4C1D95", "#C4B5FD"),
 }
 
 def status_badge(status: str) -> str:
@@ -96,16 +100,37 @@ dist_df = arrival_distribution(unit_df, registry)
 
 
 # ── Header ────────────────────────────────────────────────────────────────────
-col_title, col_refresh = st.columns([5, 1])
-with col_title:
-    st.markdown("## Arrival Day Dashboard")
-    st.caption(f"Summit Bechtel Reserve · {datetime.now().strftime('%A, %B %d · %I:%M %p')} · "
-               f"auto-refreshes every {POLL_INTERVAL_SECONDS}s")
-with col_refresh:
-    st.markdown("<br>", unsafe_allow_html=True)
+logo_col, title_col, refresh_col = st.columns([1, 4, 1])
+
+with logo_col:
+    try:
+        st.image("jambo_logo.png", width=110)
+    except Exception:
+        st.markdown("⛺")  # fallback if logo file isn't found
+
+with title_col:
+    st.markdown(
+        "<h1 style='margin:0; padding-top:12px; font-size:1.7rem; "
+        "color:#FFFFFF; font-weight:600; letter-spacing:0.01em;'>"
+        "Arrival Day Dashboard</h1>",
+        unsafe_allow_html=True
+    )
+    st.markdown(
+        f"<p style='margin:0; color:#A0AEC0; font-size:0.82rem;'>"
+        f"Summit Bechtel Reserve &nbsp;·&nbsp; "
+        f"{datetime.now().strftime('%A, %B %d · %I:%M %p')} &nbsp;·&nbsp; "
+        f"auto-refreshes every {POLL_INTERVAL_SECONDS}s</p>",
+        unsafe_allow_html=True
+    )
+
+with refresh_col:
+    st.markdown("<div style='padding-top:22px'>", unsafe_allow_html=True)
     if st.button("↺ Refresh now"):
         st.cache_data.clear()
         st.rerun()
+    st.markdown("</div>", unsafe_allow_html=True)
+
+st.markdown("<div class='header-rule'></div>", unsafe_allow_html=True)
 
 st.divider()
 
