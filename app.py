@@ -53,6 +53,7 @@ STATUS_BG = {
     "At Ruby":       ("#FAEEDA", "#854F0B"),
     "At South Gate": ("#E6F1FB", "#185FA5"),
     "On-site":       ("#EAF3DE", "#3B6D11"),
+    "Checked-in":    ("#F3E8FF", "#6B21A8"),
 }
 
 def status_badge(status: str) -> str:
@@ -118,18 +119,21 @@ if unmatched:
 
 
 # ── Metric cards ──────────────────────────────────────────────────────────────
-m1, m2, m3, m4 = st.columns(4)
+m1, m2, m3, m4, m5 = st.columns(5)
 
 with m1:
+    st.metric("Checked-in", stats["checked_in"],
+              delta=f"{round(stats['checked_in'] / stats['total'] * 100)}% of total" if stats["total"] else None)
+with m2:
     st.metric("On-site", stats["on_site"],
               delta=f"{round(stats['on_site'] / stats['total'] * 100)}% of total" if stats["total"] else None)
-with m2:
+with m3:
     st.metric("In transit", stats["in_transit"],
               delta="at Ruby or South Gate")
-with m3:
+with m4:
     st.metric("Not arrived", stats["not_arrived"],
               delta=f"of {stats['total']} total units")
-with m4:
+with m5:
     var = stats["avg_variance"]
     if var is not None:
         label = f"+{var} min (late)" if var > 0 else f"{var} min (early)"
@@ -228,6 +232,7 @@ for _, row in display_df.iterrows():
         "Ruby":       fmt_time(row["ruby_time"]),
         "South Gate": fmt_time(row["south_gate_time"]),
         "On-site":    fmt_time(row["onsite_time"]),
+        "Check-in":   fmt_time(row["checkin_time"]),
         "Variance":   fmt_variance(row["variance_minutes"]),
         "Notes":      row["last_checkin_notes"],
     })

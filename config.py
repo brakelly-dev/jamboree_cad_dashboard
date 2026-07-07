@@ -21,16 +21,18 @@ CHECKPOINTS = {
     "ruby":        "Ruby Welcome Center",
     "south_gate": "South Gate",
     "basecamp":   "Basecamp",
+    "check_in":    "Checked-in"
 }
 
 # Status labels — order matters (pipeline progression)
-STATUS_ORDER = ["Not arrived", "At Ruby", "At South Gate", "On-site"]
+STATUS_ORDER = ["Not arrived", "At Ruby", "At South Gate", "On-site", "Checked-in"]
 
 STATUS_COLORS = {
     "Not arrived":   "#888780",
     "At Ruby":       "#BA7517",
     "At South Gate": "#185FA5",
     "On-site":       "#3B6D11",
+    "Checked-in":    "#6B21A8",
 }
 
 # Fuzzy match threshold (0–100). Lower = more permissive.

@@ -51,6 +51,8 @@ def normalize_checkpoint(raw: str) -> str | None:
         return "south_gate"
     if "base" in raw_lower or "camp" in raw_lower:
         return "basecamp"
+    if "check" in raw_lower or "checked" in raw_lower:
+        return "check_in"
     return None
 
 
@@ -58,4 +60,5 @@ CHECKPOINT_TO_STATUS = {
     "ruby":        "At Ruby",
     "south_gate": "At South Gate",
     "basecamp":   "On-site",
+    "check_in":    "Checked-in",
 }

@@ -31,6 +31,7 @@ def build_unit_states(registry: list[dict], checkins: pd.DataFrame) -> pd.DataFr
             "ruby_time":          None,
             "south_gate_time":    None,
             "onsite_time":        None,
+            "checkin_time":       None,
             "last_checkin_notes": "",
             "variance_minutes":   None,
             "unmatched_flags":    0,
@@ -74,6 +75,8 @@ def build_unit_states(registry: list[dict], checkins: pd.DataFrame) -> pd.DataFr
             state[uname]["variance_minutes"] = _compute_variance(
                 matched_unit.get("expected_time", ""), ts
             )
+        elif checkpoint_key == "check_in" and state[uname]["checkin_time"] is None:
+            state[uname]["checkin_time"] = ts
 
         state[uname]["last_checkin_notes"] = row["notes"] or state[uname]["last_checkin_notes"]
 
@@ -108,6 +111,7 @@ def _compute_variance(expected_str: str, actual_ts: datetime) -> float | None:
 def summary_stats(df: pd.DataFrame) -> dict:
     """Compute the four headline metrics for the dashboard."""
     total = len(df)
+    checked_in = int((df["status"] == "Checked-in").sum())
     on_site = int((df["status"] == "On-site").sum())
     in_transit = int(df["status"].isin(["At Ruby", "At South Gate"]).sum())
     not_arrived = int((df["status"] == "Not arrived").sum())
@@ -122,6 +126,7 @@ def summary_stats(df: pd.DataFrame) -> dict:
 
     return {
         "total":       total,
+        "checked_in":  checked_in,
         "on_site":     on_site,
         "in_transit":  in_transit,
         "not_arrived": not_arrived,
