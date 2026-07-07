@@ -53,11 +53,11 @@ st.markdown("""
 
 # ── Status badge helper ───────────────────────────────────────────────────────
 STATUS_BG = {
-    "Not arrived":   ("#2D3748", "#A0AEC0"),
-    "At Ruby":       ("#7C3A00", "#FBBF24"),
-    "At South Gate": ("#1E3A5F", "#60A5FA"),
-    "On-site":       ("#14532D", "#86EFAC"),
-    "Checked-in":    ("#4C1D95", "#C4B5FD"),
+    "Not arrived":   ("#F1EFE8", "#5F5E5A"),
+    "At Ruby":       ("#FAEEDA", "#854F0B"),
+    "At South Gate": ("#E6F1FB", "#185FA5"),
+    "On-site":       ("#EAF3DE", "#3B6D11"),
+    "Checked-in":    ("#F3E8FF", "#6B21A8"),
 }
 
 def status_badge(status: str) -> str:
