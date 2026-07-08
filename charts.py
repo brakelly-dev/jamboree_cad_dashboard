@@ -44,7 +44,7 @@ def arrival_distribution_chart(dist_df: pd.DataFrame) -> go.Figure:
 def transport_donut(motor_coach: int, personal_vehicle: int) -> go.Figure:
     """Donut chart of transport type breakdown."""
     fig = go.Figure(go.Pie(
-        labels=["Motor coach", "POV"],
+        labels=["Motor Coach", "POV"],
         values=[motor_coach, personal_vehicle],
         hole=0.6,
         marker_colors=["#378ADD", "#97C459"],
@@ -57,7 +57,7 @@ def transport_donut(motor_coach: int, personal_vehicle: int) -> go.Figure:
     ))
     fig.update_layout(
         height=250,
-        margin=dict(l=0, r=20, t=0, b=20),
+        margin=dict(l=0, r=25, t=0, b=10),
         paper_bgcolor="#FFFFFF",
         plot_bgcolor="#FFFFFF",
         showlegend=True,
