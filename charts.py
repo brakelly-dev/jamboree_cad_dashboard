@@ -61,7 +61,7 @@ def transport_donut(motor_coach: int, personal_vehicle: int) -> go.Figure:
             orientation="h",
             yanchor="top",
             y=-0.08,
-            xanchor="center",
+            xanchor="left",
             x=0.5,
             font=dict(size=11, color="#4A5568"),
             itemsizing="constant",
