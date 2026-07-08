@@ -53,7 +53,7 @@ def transport_donut(motor_coach: int, personal_vehicle: int) -> go.Figure:
         textposition="inside",
         textfont=dict(size=13, color="#1A202C"),
         hovertemplate="%{label}: %{value} units (%{percent})<extra></extra>",
-        # domain=dict(x=[0.05, 0.95], y=[0.15, 1.0]),
+        domain=dict(x=[0.05, 0.95], y=[0.15, 1.0]),
     ))
     fig.update_layout(
         height=250,
