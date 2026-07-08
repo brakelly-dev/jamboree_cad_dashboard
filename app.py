@@ -302,7 +302,7 @@ with chart_right:
     <div style="
         background-color: #FFFFFF;
         border-radius: 0 0 12px 12px;
-        margin-top: -18px;
+        margin-top: -20px;
         padding: 0 16px 14px 16px;
         display: flex;
         justify-content: center;
@@ -311,12 +311,12 @@ with chart_right:
         <div style="display:flex; align-items:center; gap:6px; font-size:0.8rem; color:#4A5568;">
             <div style="width:10px; height:10px; border-radius:2px;
                         background:#378ADD; flex-shrink:0;"></div>
-            🔵 Motor coach: <strong style="color:#1A202C;">{stats['motor_coach']}</strong>
+            Motor coach: <strong style="color:#1A202C;">{stats['motor_coach']}</strong>
         </div>
         <div style="display:flex; align-items:center; gap:6px; font-size:0.8rem; color:#4A5568;">
             <div style="width:10px; height:10px; border-radius:2px;
                         background:#97C459; flex-shrink:0;"></div>
-            🟢 Personal vehicle: <strong style="color:#1A202C;">{stats['personal_vehicle']}</strong>
+            Personal vehicle: <strong style="color:#1A202C;">{stats['personal_vehicle']}</strong>
         </div>
     </div>
     """, unsafe_allow_html=True)
