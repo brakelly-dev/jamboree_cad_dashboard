@@ -46,14 +46,14 @@ def transport_donut(motor_coach: int, personal_vehicle: int) -> go.Figure:
     fig = go.Figure(go.Pie(
         labels=["Motor coach", "Personal vehicle"],
         values=[motor_coach, personal_vehicle],
-        hole=0.65,
+        hole=0.6,
         marker_colors=["#378ADD", "#97C459"],
         text=[str(motor_coach), str(personal_vehicle)],
         textinfo="text",
         textposition="inside",
         textfont=dict(size=13, color="#1A202C"),
         hovertemplate="%{label}: %{value} units (%{percent})<extra></extra>",
-        domain=dict(x=[0.05, 0.95], y=[0.15, 1.0]),
+        # domain=dict(x=[0.05, 0.95], y=[0.15, 1.0]),
     ))
     fig.update_layout(
         height=250,
