@@ -29,7 +29,7 @@ def arrival_distribution_chart(dist_df: pd.DataFrame) -> go.Figure:
     )
     fig.update_layout(
         barmode="group",
-        height=225,
+        height=275,
         margin=dict(l=10, r=10, t=10, b=30),
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
@@ -52,19 +52,20 @@ def transport_donut(motor_coach: int, personal_vehicle: int) -> go.Figure:
         hovertemplate="%{label}: %{value} units (%{percent})<extra></extra>",
     ))
     fig.update_layout(
-        height=225,
-        margin=dict(l=10, r=10, t=10, b=10),
+        height=275,
+        margin=dict(l=20, r=20, t=30, b=80),
         paper_bgcolor="rgba(0,0,0,0)",
         showlegend=True,
         legend=dict(
             orientation="h",
-            yanchor="bottom",
-            y=-0.15,
-            xanchor="left",
-            x=0.1,
+            yanchor="top",
+            y=-0.08,
+            xanchor="center",
+            x=0.5,
             font=dict(size=11, color="#4A5568"),
             itemsizing="constant",
             bgcolor="rgba(0,0,0,0)",
+            traceorder="normal",
         ),
         font=dict(family="sans-serif", size=11),
     )
