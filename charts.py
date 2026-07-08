@@ -33,7 +33,7 @@ def arrival_distribution_chart(dist_df: pd.DataFrame) -> go.Figure:
         margin=dict(l=10, r=10, t=10, b=30),
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
-        legend=dict(orientation="h", y=-0.25, x=0, font_size=11),
+        legend=dict(orientation="h", y=-0.2, x=0, font_size=11),
         xaxis=dict(showgrid=False, tickfont_size=10),
         yaxis=dict(showgrid=True, gridcolor="rgba(136,135,128,0.15)", tickfont_size=10),
         font=dict(family="sans-serif", size=11),
