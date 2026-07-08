@@ -296,15 +296,30 @@ with chart_left:
 
 with chart_right:
     st.markdown("##### Transportation Type")
-    st.plotly_chart(transport_donut(stats["motor_coach"], stats["personal_vehicle"]),
-                    use_container_width=True)
-    st.markdown(
-        f"<div style='text-align:center; margin-top:8px; font-size:0.8rem; color:#4A5568;'>"
-        f"<span style='margin-right:12px;'>🔵 Motor coach: <strong>{stats['motor_coach']}</strong></span>"
-        f"<span>🟢 Personal vehicle: <strong>{stats['personal_vehicle']}</strong></span>"
-        f"</div>",
-        unsafe_allow_html=True
-    )
+    donut_fig = transport_donut(stats["motor_coach"], stats["personal_vehicle"])
+    st.plotly_chart(donut_fig, use_container_width=True)
+    st.markdown(f"""
+    <div style="
+        background-color: #FFFFFF;
+        border-radius: 0 0 12px 12px;
+        margin-top: -18px;
+        padding: 0 16px 14px 16px;
+        display: flex;
+        justify-content: center;
+        gap: 24px;
+    ">
+        <div style="display:flex; align-items:center; gap:6px; font-size:0.8rem; color:#4A5568;">
+            <div style="width:10px; height:10px; border-radius:2px;
+                        background:#378ADD; flex-shrink:0;"></div>
+            🔵 Motor coach: <strong style="color:#1A202C;">{stats['motor_coach']}</strong>
+        </div>
+        <div style="display:flex; align-items:center; gap:6px; font-size:0.8rem; color:#4A5568;">
+            <div style="width:10px; height:10px; border-radius:2px;
+                        background:#97C459; flex-shrink:0;"></div>
+            🟢 Personal vehicle: <strong style="color:#1A202C;">{stats['personal_vehicle']}</strong>
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
 
 
 st.markdown("##### Travel Time Between Checkpoints")
