@@ -50,14 +50,14 @@ def transport_donut(motor_coach: int, personal_vehicle: int) -> go.Figure:
         marker_colors=["#378ADD", "#97C459"],
         text=[str(motor_coach), str(personal_vehicle)],
         textinfo="text",
-        textposition="outside",
+        textposition="inside",
         textfont=dict(size=13, color="#1A202C"),
         hovertemplate="%{label}: %{value} units (%{percent})<extra></extra>",
         domain=dict(x=[0.05, 0.95], y=[0.15, 1.0]),
     ))
     fig.update_layout(
         height=250,
-        margin=dict(l=30, r=30, t=20, b=10),
+        margin=dict(l=0, r=10, t=20, b=10),
         paper_bgcolor="#FFFFFF",
         plot_bgcolor="#FFFFFF",
         showlegend=True,
