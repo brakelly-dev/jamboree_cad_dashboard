@@ -54,7 +54,7 @@ def transport_donut(motor_coach: int, personal_vehicle: int) -> go.Figure:
     ))
     fig.update_layout(
         height=275,
-        margin=dict(l=20, r=20, t=30, b=80),
+        margin=dict(l=0, r=20, t=30, b=80),
         paper_bgcolor="rgba(0,0,0,0)",
         showlegend=True,
         legend=dict(
