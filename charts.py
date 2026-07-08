@@ -48,25 +48,29 @@ def transport_donut(motor_coach: int, personal_vehicle: int) -> go.Figure:
         values=[motor_coach, personal_vehicle],
         hole=0.65,
         marker_colors=["#378ADD", "#97C459"],
-        textinfo="none",
+        text=[str(motor_coach), str(personal_vehicle)],
+        textinfo="text",
+        textposition="outside",
+        textfont=dict(size=13, color="#1A202C"),
         hovertemplate="%{label}: %{value} units (%{percent})<extra></extra>",
-        domain=dict(x=[0.1, 0.9], y=[0.1, 1.0]),
+        domain=dict(x=[0.05, 0.95], y=[0.15, 1.0]),
     ))
     fig.update_layout(
         height=250,
-        margin=dict(l=0, r=20, t=30, b=80),
-        paper_bgcolor="rgba(0,0,0,0)",
+        margin=dict(l=30, r=30, t=20, b=10),
+        paper_bgcolor="#FFFFFF",
+        plot_bgcolor="#FFFFFF",
         showlegend=True,
         legend=dict(
-            orientation="h",
-            yanchor="top",
-            y=-0.08,
-            xanchor="right",
-            x=0.5,
+            orientation="h",          # horizontal — side by side not stacked
+            yanchor="bottom",
+            y=0.0,                     # pinned to bottom of the figure
+            xanchor="center",
+            x=0.5,                     # centered
             font=dict(size=11, color="#4A5568"),
             itemsizing="constant",
             bgcolor="rgba(0,0,0,0)",
-            traceorder="normal",
+            tracegroupgap=0,
         ),
         font=dict(family="sans-serif", size=11),
     )
