@@ -38,10 +38,10 @@ import pandas as pd
 
 # ── Column auto-detection aliases ────────────────────────────────────────────
 ALIASES = {
-    "unit_number":   ["unit number", "unit name", "unit", "troop", "crew", "name", "ship", "team"],
-    "council":       ["council", "bsa council"],
-    "expected_time": ["expected arrival time", "eta"],
-    "transport":     ["transport", "vehicle", "bus", "transport type", "travel"],
+    "unit_number":   ["contingent", "unit number", "unit name", "unit", "troop", "crew", "name", "ship", "team"],
+    "council":       ["councilname", "council", "bsa council"],
+    "expected_time": ["time","expected arrival time", "eta"],
+    "transport":     ["carrier", "transport", "vehicle", "bus", "transport type", "travel"],
     "unit_type":     ["variant", "unit type", "program", "category"],
     "size":          ["size", "members", "count", "participants", "headcount"],
     "basecamp":      ["basecamp", "camp", "site", "assigned basecamp", "assignment"],
