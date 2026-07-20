@@ -38,14 +38,14 @@ import pandas as pd
 
 # ── Column auto-detection aliases ────────────────────────────────────────────
 ALIASES = {
-    "unit_number":   ["contingent", "unit number", "unit name", "unit", "troop", "crew", "name", "ship", "team"],
+    "unit_number":   ["unit_number", "unit number", "unit name"],
     "council":       ["councilname", "council", "bsa council"],
     "expected_time": ["time","expected arrival time", "eta"],
     "transport":     ["carrier", "transport", "vehicle", "bus", "transport type", "travel"],
     "unit_type":     ["variant", "unit type", "program", "category"],
     "size":          ["size", "members", "count", "participants", "headcount"],
-    "basecamp":      ["basecamp", "camp", "site", "assigned basecamp", "assignment"],
-    "subcamp":       ["subcamp", "subcampus", "area", "section"],
+    "basecamp":      ["basecamp"],
+    "subcamp":       ["subcamp"],
     "notes":         ["notes", "comments", "remarks", "other"],
 }
 
@@ -179,7 +179,7 @@ def convert(input_path: str, output_path: str, sheet: str | None) -> None:
 
         unit = {
             "id":             f"unit_{len(registry) + 1}",
-            "unit_number":      unit_number,
+            "unit_number":    unit_number,
             "council":        council,
             "expected_time":  expected_time,
             "transport":      transport,
