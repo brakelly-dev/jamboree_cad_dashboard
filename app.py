@@ -267,7 +267,7 @@ with m1:
     st.metric("Checked-in", stats["checked_in"],
               delta=f"{round(stats['checked_in'] / stats['total'] * 100)}% of total" if stats["total"] else None)
 with m2:
-    st.metric("On-site", stats["on_site"],
+    st.metric("At Basecamp", stats["on_site"],
               delta=f"{round(stats['on_site'] / stats['total'] * 100)}% of total" if stats["total"] else None)
 with m3:
     st.metric("In transit", stats["in_transit"],
