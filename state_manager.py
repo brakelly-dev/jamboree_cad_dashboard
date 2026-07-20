@@ -103,7 +103,8 @@ def _compute_variance(expected_str: str, actual_ts: datetime) -> float | None:
                 expected = actual_naive.replace(
                     hour=t.hour, minute=t.minute, second=0, microsecond=0
                 )
-                delta = (actual_naive - expected).total_seconds() / 60
+                # delta = (actual_naive - expected).total_seconds() / 60
+                delta = (expected - actual_naive).total_seconds() / 60
                 return round(delta, 1)
             except ValueError:
                 continue
