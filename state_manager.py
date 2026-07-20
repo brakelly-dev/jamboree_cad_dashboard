@@ -92,14 +92,18 @@ def _compute_variance(expected_str: str, actual_ts: datetime) -> float | None:
     if not expected_str:
         return None
     try:
+        # Strip timezone info from actual_ts for a clean comparison
+        actual_naive = actual_ts.replace(tzinfo=None)
+        
         # Parse expected time (supports HH:MM and H:MM AM/PM)
         for fmt in ("%H:%M", "%I:%M %p", "%I:%M%p"):
             try:
                 t = datetime.strptime(expected_str.strip(), fmt)
-                expected = actual_ts.replace(
+                # Reconstruct expected as a full datetime on the same date as actual
+                expected = actual_naive.replace(
                     hour=t.hour, minute=t.minute, second=0, microsecond=0
                 )
-                delta = (actual_ts - expected).total_seconds() / 60
+                delta = (actual_naive - expected).total_seconds() / 60
                 return round(delta, 1)
             except ValueError:
                 continue
