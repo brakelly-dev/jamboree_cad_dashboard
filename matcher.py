@@ -34,6 +34,16 @@ def find_best_match(query: str, registry: list[dict]) -> dict | None:
         return best_unit
     return None
 
+def find_exact_match(query: str, registry: list[dict]) -> dict | None:
+    """
+    Find an exact match for a given name string in the registry.
+    Returns the registry dict on a match, None if no exact match found.
+    """
+    normalized_query = _normalize(query)
+    for unit in registry:
+        if _normalize(unit.get("unit_number", "")) == normalized_query:
+            return unit
+    return None
 
 def normalize_checkpoint(raw: str) -> str | None:
     """

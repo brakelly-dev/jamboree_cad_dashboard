@@ -2,7 +2,7 @@
 
 import pandas as pd
 from datetime import datetime
-from matcher import find_best_match, normalize_checkpoint, CHECKPOINT_TO_STATUS
+from matcher import find_exact_match, normalize_checkpoint, CHECKPOINT_TO_STATUS
 from config import STATUS_ORDER
 
 
@@ -41,7 +41,7 @@ def build_unit_states(registry: list[dict], checkins: pd.DataFrame) -> pd.DataFr
     unmatched = []
 
     for _, row in checkins.iterrows():
-        matched_unit = find_best_match(row["unit_number"], registry)
+        matched_unit = find_exact_match(row["unit_number"], registry)
         checkpoint_key = normalize_checkpoint(row["checkpoint"])
 
         if matched_unit is None or checkpoint_key is None:
