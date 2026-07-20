@@ -172,7 +172,7 @@ STATUS_BG = {
     "Not arrived":   ("#F1EFE8", "#5F5E5A"),
     "At Ruby":       ("#FAEEDA", "#854F0B"),
     "At South Gate": ("#E6F1FB", "#185FA5"),
-    "On-site":       ("#EAF3DE", "#3B6D11"),
+    "At Basecamp":   ("#EAF3DE", "#3B6D11"),
     "Checked-in":    ("#F3E8FF", "#6B21A8"),
 }
 
