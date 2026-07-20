@@ -68,13 +68,16 @@ def build_unit_states(registry: list[dict], checkins: pd.DataFrame) -> pd.DataFr
 
         if checkpoint_key == "ruby" and state[uname]["ruby_time"] is None:
             state[uname]["ruby_time"] = ts
+            state[uname]["variance_minutes"] = _compute_variance(
+                matched_unit.get("expected_time", ""), ts
+            )
         elif checkpoint_key == "south_gate" and state[uname]["south_gate_time"] is None:
             state[uname]["south_gate_time"] = ts
         elif checkpoint_key == "basecamp" and state[uname]["onsite_time"] is None:
             state[uname]["onsite_time"] = ts
-            state[uname]["variance_minutes"] = _compute_variance(
-                matched_unit.get("expected_time", ""), ts
-            )
+            # state[uname]["variance_minutes"] = _compute_variance(
+            #     matched_unit.get("expected_time", ""), ts
+            # )
         elif checkpoint_key == "check_in" and state[uname]["checkin_time"] is None:
             state[uname]["checkin_time"] = ts
 
