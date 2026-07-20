@@ -1,7 +1,7 @@
 [
   {
     "id": "unit_1",
-    "unit_number": "205",
+    "unit_number": "Colonial Virginia",
     "council": "Colonial Virginia",
     "expected_time": "01:30",
     "transport": "Personal Vehicle",
@@ -17,7 +17,7 @@
   },
   {
     "id": "unit_2",
-    "unit_number": "365",
+    "unit_number": "Jersey Shore",
     "council": "Jersey Shore",
     "expected_time": "05:30",
     "transport": "Motor Coach",
@@ -33,7 +33,7 @@
   },
   {
     "id": "unit_3",
-    "unit_number": "273",
+    "unit_number": "Shenandoah Area",
     "council": "Shenandoah Area",
     "expected_time": "06:00",
     "transport": "Motor Coach",
@@ -49,7 +49,7 @@
   },
   {
     "id": "unit_4",
-    "unit_number": "40",
+    "unit_number": "Simon Kenton",
     "council": "Simon Kenton",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -65,7 +65,7 @@
   },
   {
     "id": "unit_5",
-    "unit_number": "41",
+    "unit_number": "Simon Kenton",
     "council": "Simon Kenton",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -81,7 +81,7 @@
   },
   {
     "id": "unit_6",
-    "unit_number": "42",
+    "unit_number": "Simon Kenton",
     "council": "Simon Kenton",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -97,7 +97,7 @@
   },
   {
     "id": "unit_7",
-    "unit_number": "85",
+    "unit_number": "Northern New Jersey",
     "council": "Northern New Jersey",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -113,7 +113,7 @@
   },
   {
     "id": "unit_8",
-    "unit_number": "159",
+    "unit_number": "Natural State",
     "council": "Natural State",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -129,7 +129,7 @@
   },
   {
     "id": "unit_9",
-    "unit_number": "224",
+    "unit_number": "Last Frontier",
     "council": "Last Frontier",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -145,7 +145,7 @@
   },
   {
     "id": "unit_10",
-    "unit_number": "224",
+    "unit_number": "Last Frontier",
     "council": "Last Frontier",
     "expected_time": "07:00",
     "transport": "Personal Vehicle",
@@ -161,7 +161,7 @@
   },
   {
     "id": "unit_11",
-    "unit_number": "225",
+    "unit_number": "Last Frontier",
     "council": "Last Frontier",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -177,7 +177,7 @@
   },
   {
     "id": "unit_12",
-    "unit_number": "267",
+    "unit_number": "New Birth of Freedom",
     "council": "New Birth of Freedom",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -193,7 +193,7 @@
   },
   {
     "id": "unit_13",
-    "unit_number": "272",
+    "unit_number": "Central Florida",
     "council": "Central Florida",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -209,7 +209,7 @@
   },
   {
     "id": "unit_14",
-    "unit_number": "387",
+    "unit_number": "Central Florida",
     "council": "Central Florida",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -225,7 +225,7 @@
   },
   {
     "id": "unit_15",
-    "unit_number": "388",
+    "unit_number": "Central Florida",
     "council": "Central Florida",
     "expected_time": "07:00",
     "transport": "Motor Coach",
@@ -241,7 +241,7 @@
   },
   {
     "id": "unit_16",
-    "unit_number": "368",
+    "unit_number": "Northeastern Pennsylvania",
     "council": "Northeastern Pennsylvania",
     "expected_time": "08:00",
     "transport": "Motor Coach",
@@ -257,7 +257,7 @@
   },
   {
     "id": "unit_17",
-    "unit_number": "15",
+    "unit_number": "Pacific Harbors",
     "council": "Pacific Harbors",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -273,7 +273,7 @@
   },
   {
     "id": "unit_18",
-    "unit_number": "16",
+    "unit_number": "Pacific Harbors",
     "council": "Pacific Harbors",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -289,7 +289,7 @@
   },
   {
     "id": "unit_19",
-    "unit_number": "136",
+    "unit_number": "Atlanta Area",
     "council": "Atlanta Area",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -305,7 +305,7 @@
   },
   {
     "id": "unit_20",
-    "unit_number": "137",
+    "unit_number": "Atlanta Area",
     "council": "Atlanta Area",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -321,7 +321,7 @@
   },
   {
     "id": "unit_21",
-    "unit_number": "138",
+    "unit_number": "Atlanta Area",
     "council": "Atlanta Area",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -337,7 +337,7 @@
   },
   {
     "id": "unit_22",
-    "unit_number": "141",
+    "unit_number": "Buckskin",
     "council": "Buckskin",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -353,7 +353,7 @@
   },
   {
     "id": "unit_23",
-    "unit_number": "141",
+    "unit_number": "Buckskin",
     "council": "Buckskin",
     "expected_time": "09:00",
     "transport": "Trailer",
@@ -369,7 +369,7 @@
   },
   {
     "id": "unit_24",
-    "unit_number": "141",
+    "unit_number": "Buckskin",
     "council": "Buckskin",
     "expected_time": "09:00",
     "transport": "Personal Vehicle",
@@ -385,7 +385,7 @@
   },
   {
     "id": "unit_25",
-    "unit_number": "189",
+    "unit_number": "Las Vegas Area",
     "council": "Las Vegas Area",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -401,7 +401,7 @@
   },
   {
     "id": "unit_26",
-    "unit_number": "213",
+    "unit_number": "Longhorn",
     "council": "Longhorn",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -417,7 +417,7 @@
   },
   {
     "id": "unit_27",
-    "unit_number": "214",
+    "unit_number": "Longhorn",
     "council": "Longhorn",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -433,7 +433,7 @@
   },
   {
     "id": "unit_28",
-    "unit_number": "279",
+    "unit_number": "Hawk Mountain",
     "council": "Hawk Mountain",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -449,7 +449,7 @@
   },
   {
     "id": "unit_29",
-    "unit_number": "282",
+    "unit_number": "Northeast Georgia",
     "council": "Northeast Georgia",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -465,7 +465,7 @@
   },
   {
     "id": "unit_30",
-    "unit_number": "295",
+    "unit_number": "Grand Canyon",
     "council": "Grand Canyon",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -481,7 +481,7 @@
   },
   {
     "id": "unit_31",
-    "unit_number": "339",
+    "unit_number": "Alamo Area",
     "council": "Alamo Area",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -497,7 +497,7 @@
   },
   {
     "id": "unit_32",
-    "unit_number": "339",
+    "unit_number": "Alamo Area",
     "council": "Alamo Area",
     "expected_time": "09:00",
     "transport": "Personal Vehicle",
@@ -513,7 +513,7 @@
   },
   {
     "id": "unit_33",
-    "unit_number": "339",
+    "unit_number": "Alamo Area",
     "council": "Alamo Area",
     "expected_time": "09:00",
     "transport": "Personal Vehicle",
@@ -529,7 +529,7 @@
   },
   {
     "id": "unit_34",
-    "unit_number": "340",
+    "unit_number": "Alamo Area",
     "council": "Alamo Area",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -545,7 +545,7 @@
   },
   {
     "id": "unit_35",
-    "unit_number": "341",
+    "unit_number": "Alamo Area",
     "council": "Alamo Area",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -561,7 +561,7 @@
   },
   {
     "id": "unit_36",
-    "unit_number": "344",
+    "unit_number": "Crossroads of the West",
     "council": "Crossroads of the West",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -577,7 +577,7 @@
   },
   {
     "id": "unit_37",
-    "unit_number": "345",
+    "unit_number": "Crossroads of the West",
     "council": "Crossroads of the West",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -593,7 +593,7 @@
   },
   {
     "id": "unit_38",
-    "unit_number": "346",
+    "unit_number": "Crossroads of the West",
     "council": "Crossroads of the West",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -609,7 +609,7 @@
   },
   {
     "id": "unit_39",
-    "unit_number": "370",
+    "unit_number": "Crossroads of the West",
     "council": "Crossroads of the West",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -625,7 +625,7 @@
   },
   {
     "id": "unit_40",
-    "unit_number": "390",
+    "unit_number": "Indian Nations",
     "council": "Indian Nations",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -641,7 +641,7 @@
   },
   {
     "id": "unit_41",
-    "unit_number": "391",
+    "unit_number": "Indian Nations",
     "council": "Indian Nations",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -657,7 +657,7 @@
   },
   {
     "id": "unit_42",
-    "unit_number": "392",
+    "unit_number": "Indian Nations",
     "council": "Indian Nations",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -673,7 +673,7 @@
   },
   {
     "id": "unit_43",
-    "unit_number": "412",
+    "unit_number": "Atlanta Area",
     "council": "Atlanta Area",
     "expected_time": "09:00",
     "transport": "Motor Coach",
@@ -689,7 +689,7 @@
   },
   {
     "id": "unit_44",
-    "unit_number": "151",
+    "unit_number": "Gulf Coast",
     "council": "Gulf Coast",
     "expected_time": "09:30",
     "transport": "Motor Coach",
@@ -705,7 +705,7 @@
   },
   {
     "id": "unit_45",
-    "unit_number": "151",
+    "unit_number": "Gulf Coast",
     "council": "Gulf Coast",
     "expected_time": "09:30",
     "transport": "Mini-Van",
@@ -721,7 +721,7 @@
   },
   {
     "id": "unit_46",
-    "unit_number": "152",
+    "unit_number": "W. D. Boyce",
     "council": "W. D. Boyce",
     "expected_time": "09:30",
     "transport": "Motor Coach",
@@ -737,7 +737,7 @@
   },
   {
     "id": "unit_47",
-    "unit_number": "153",
+    "unit_number": "W. D. Boyce",
     "council": "W. D. Boyce",
     "expected_time": "09:30",
     "transport": "Motor Coach",
@@ -753,7 +753,7 @@
   },
   {
     "id": "unit_48",
-    "unit_number": "153",
+    "unit_number": "W. D. Boyce",
     "council": "W. D. Boyce",
     "expected_time": "09:30",
     "transport": "Mini-Van",
@@ -769,7 +769,7 @@
   },
   {
     "id": "unit_49",
-    "unit_number": "234",
+    "unit_number": "Nevada Area",
     "council": "Nevada Area",
     "expected_time": "09:30",
     "transport": "Motor Coach",
@@ -785,7 +785,7 @@
   },
   {
     "id": "unit_50",
-    "unit_number": "319",
+    "unit_number": "Great Alaska",
     "council": "Great Alaska",
     "expected_time": "09:30",
     "transport": "Motor Coach",
@@ -801,7 +801,7 @@
   },
   {
     "id": "unit_51",
-    "unit_number": "326",
+    "unit_number": "Gulf Coast",
     "council": "Gulf Coast",
     "expected_time": "09:30",
     "transport": "Motor Coach",
@@ -817,7 +817,7 @@
   },
   {
     "id": "unit_52",
-    "unit_number": "326",
+    "unit_number": "Gulf Coast",
     "council": "Gulf Coast",
     "expected_time": "09:30",
     "transport": "Mini-Van",
@@ -833,7 +833,7 @@
   },
   {
     "id": "unit_53",
-    "unit_number": "185",
+    "unit_number": "Greater Hudson Valley",
     "council": "Greater Hudson Valley",
     "expected_time": "09:45",
     "transport": "Motor Coach",
@@ -849,7 +849,7 @@
   },
   {
     "id": "unit_54",
-    "unit_number": "186",
+    "unit_number": "Greater Hudson Valley",
     "council": "Greater Hudson Valley",
     "expected_time": "09:45",
     "transport": "Motor Coach",
@@ -865,7 +865,7 @@
   },
   {
     "id": "unit_55",
-    "unit_number": "364",
+    "unit_number": "Greater Hudson Valley",
     "council": "Greater Hudson Valley",
     "expected_time": "09:45",
     "transport": "Motor Coach",
@@ -881,7 +881,7 @@
   },
   {
     "id": "unit_56",
-    "unit_number": "24",
+    "unit_number": "Three Fires",
     "council": "Three Fires",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -897,7 +897,7 @@
   },
   {
     "id": "unit_57",
-    "unit_number": "25",
+    "unit_number": "Three Fires",
     "council": "Three Fires",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -913,7 +913,7 @@
   },
   {
     "id": "unit_58",
-    "unit_number": "26",
+    "unit_number": "Three Fires",
     "council": "Three Fires",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -929,7 +929,7 @@
   },
   {
     "id": "unit_59",
-    "unit_number": "27",
+    "unit_number": "Three Fires",
     "council": "Three Fires",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -945,7 +945,7 @@
   },
   {
     "id": "unit_60",
-    "unit_number": "28",
+    "unit_number": "Three Fires",
     "council": "Three Fires",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -961,7 +961,7 @@
   },
   {
     "id": "unit_61",
-    "unit_number": "50",
+    "unit_number": "Greater Colorado",
     "council": "Greater Colorado",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -977,7 +977,7 @@
   },
   {
     "id": "unit_62",
-    "unit_number": "51",
+    "unit_number": "Greater Colorado",
     "council": "Greater Colorado",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -993,7 +993,7 @@
   },
   {
     "id": "unit_63",
-    "unit_number": "52",
+    "unit_number": "Greater Colorado",
     "council": "Greater Colorado",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "unit_64",
-    "unit_number": "53",
+    "unit_number": "Greater Colorado",
     "council": "Greater Colorado",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1025,7 +1025,7 @@
   },
   {
     "id": "unit_65",
-    "unit_number": "68",
+    "unit_number": "Mountaineer Area",
     "council": "Mountaineer Area",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": "unit_66",
-    "unit_number": "68",
+    "unit_number": "Mountaineer Area",
     "council": "Mountaineer Area",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1057,7 +1057,7 @@
   },
   {
     "id": "unit_67",
-    "unit_number": "68",
+    "unit_number": "Mountaineer Area",
     "council": "Mountaineer Area",
     "expected_time": "10:00",
     "transport": "Personal Vehicle",
@@ -1073,7 +1073,7 @@
   },
   {
     "id": "unit_68",
-    "unit_number": "90",
+    "unit_number": "Twin Valley",
     "council": "Twin Valley",
     "expected_time": "10:00",
     "transport": "15-Passenger Van",
@@ -1089,7 +1089,7 @@
   },
   {
     "id": "unit_69",
-    "unit_number": "133",
+    "unit_number": "Cape Cod & Islands",
     "council": "Cape Cod & Islands",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1105,7 +1105,7 @@
   },
   {
     "id": "unit_70",
-    "unit_number": "160",
+    "unit_number": "Natural State",
     "council": "Natural State",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": "unit_71",
-    "unit_number": "219",
+    "unit_number": "Laurel Highlands",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1137,7 +1137,7 @@
   },
   {
     "id": "unit_72",
-    "unit_number": "220",
+    "unit_number": "Laurel Highlands",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1153,7 +1153,7 @@
   },
   {
     "id": "unit_73",
-    "unit_number": "221",
+    "unit_number": "Laurel Highlands",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1169,7 +1169,7 @@
   },
   {
     "id": "unit_74",
-    "unit_number": "222",
+    "unit_number": "Laurel Highlands",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1185,7 +1185,7 @@
   },
   {
     "id": "unit_75",
-    "unit_number": "245",
+    "unit_number": "Northwest Georgia",
     "council": "Northwest Georgia",
     "expected_time": "10:00",
     "transport": "Personal Vehicle",
@@ -1201,7 +1201,7 @@
   },
   {
     "id": "unit_76",
-    "unit_number": "245",
+    "unit_number": "Northwest Georgia",
     "council": "Northwest Georgia",
     "expected_time": "10:00",
     "transport": "Personal Vehicle",
@@ -1217,7 +1217,7 @@
   },
   {
     "id": "unit_77",
-    "unit_number": "245",
+    "unit_number": "Northwest Georgia",
     "council": "Northwest Georgia",
     "expected_time": "10:00",
     "transport": "Personal Vehicle",
@@ -1233,7 +1233,7 @@
   },
   {
     "id": "unit_78",
-    "unit_number": "308",
+    "unit_number": "Blue Grass",
     "council": "Blue Grass",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": "unit_79",
-    "unit_number": "330",
+    "unit_number": "Laurel Highlands",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1265,7 +1265,7 @@
   },
   {
     "id": "unit_80",
-    "unit_number": "331",
+    "unit_number": "Cornhusker",
     "council": "Cornhusker",
     "expected_time": "10:00",
     "transport": "15-Passenger Van",
@@ -1281,7 +1281,7 @@
   },
   {
     "id": "unit_81",
-    "unit_number": "332",
+    "unit_number": "Cornhusker",
     "council": "Cornhusker",
     "expected_time": "10:00",
     "transport": "15-Passenger Van",
@@ -1297,7 +1297,7 @@
   },
   {
     "id": "unit_82",
-    "unit_number": "343",
+    "unit_number": "Sioux",
     "council": "Sioux",
     "expected_time": "10:00",
     "transport": "15-Passenger Van",
@@ -1313,7 +1313,7 @@
   },
   {
     "id": "unit_83",
-    "unit_number": "356",
+    "unit_number": "Patriots' Path",
     "council": "Patriots' Path",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1329,7 +1329,7 @@
   },
   {
     "id": "unit_84",
-    "unit_number": "380",
+    "unit_number": "Blackhawk Area",
     "council": "Blackhawk Area",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1345,7 +1345,7 @@
   },
   {
     "id": "unit_85",
-    "unit_number": "389",
+    "unit_number": "Old North State",
     "council": "Old North State",
     "expected_time": "10:00",
     "transport": "15-Passenger Van",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": "unit_86",
-    "unit_number": "389",
+    "unit_number": "Old North State",
     "council": "Old North State",
     "expected_time": "10:00",
     "transport": "Trailer",
@@ -1377,7 +1377,7 @@
   },
   {
     "id": "unit_87",
-    "unit_number": "389",
+    "unit_number": "Old North State",
     "council": "Old North State",
     "expected_time": "10:00",
     "transport": "Personal Vehicle",
@@ -1393,7 +1393,7 @@
   },
   {
     "id": "unit_88",
-    "unit_number": "414",
+    "unit_number": "Laurel Highlands",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1409,7 +1409,7 @@
   },
   {
     "id": "unit_89",
-    "unit_number": "423",
+    "unit_number": "Greater Colorado",
     "council": "Greater Colorado",
     "expected_time": "10:00",
     "transport": "Motor Coach",
@@ -1425,7 +1425,7 @@
   },
   {
     "id": "unit_90",
-    "unit_number": "108",
+    "unit_number": "Cascade Pacific",
     "council": "Cascade Pacific",
     "expected_time": "10:30",
     "transport": "Motor Coach",
@@ -1441,7 +1441,7 @@
   },
   {
     "id": "unit_91",
-    "unit_number": "109",
+    "unit_number": "Cascade Pacific",
     "council": "Cascade Pacific",
     "expected_time": "10:30",
     "transport": "Motor Coach",
@@ -1457,7 +1457,7 @@
   },
   {
     "id": "unit_92",
-    "unit_number": "111",
+    "unit_number": "Cascade Pacific",
     "council": "Cascade Pacific",
     "expected_time": "10:30",
     "transport": "Motor Coach",
@@ -1473,7 +1473,7 @@
   },
   {
     "id": "unit_93",
-    "unit_number": "253",
+    "unit_number": "California Inland Empire",
     "council": "California Inland Empire",
     "expected_time": "10:30",
     "transport": "Motor Coach",
@@ -1489,7 +1489,7 @@
   },
   {
     "id": "unit_94",
-    "unit_number": "254",
+    "unit_number": "California Inland Empire",
     "council": "California Inland Empire",
     "expected_time": "10:30",
     "transport": "Motor Coach",
@@ -1505,7 +1505,7 @@
   },
   {
     "id": "unit_95",
-    "unit_number": "254",
+    "unit_number": "California Inland Empire",
     "council": "California Inland Empire",
     "expected_time": "10:30",
     "transport": "Motor Coach",
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "unit_96",
-    "unit_number": "375",
+    "unit_number": "Cascade Pacific",
     "council": "Cascade Pacific",
     "expected_time": "10:30",
     "transport": "Motor Coach",
@@ -1537,7 +1537,7 @@
   },
   {
     "id": "unit_97",
-    "unit_number": "38",
+    "unit_number": "Mount Baker",
     "council": "Mount Baker",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1553,7 +1553,7 @@
   },
   {
     "id": "unit_98",
-    "unit_number": "39",
+    "unit_number": "Mount Baker",
     "council": "Mount Baker",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1569,7 +1569,7 @@
   },
   {
     "id": "unit_99",
-    "unit_number": "54",
+    "unit_number": "Northeast Iowa",
     "council": "Northeast Iowa",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1585,7 +1585,7 @@
   },
   {
     "id": "unit_100",
-    "unit_number": "54",
+    "unit_number": "Northeast Iowa",
     "council": "Northeast Iowa",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1601,7 +1601,7 @@
   },
   {
     "id": "unit_101",
-    "unit_number": "67",
+    "unit_number": "Suwannee River Area",
     "council": "Suwannee River Area",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1617,7 +1617,7 @@
   },
   {
     "id": "unit_102",
-    "unit_number": "67",
+    "unit_number": "Suwannee River Area",
     "council": "Suwannee River Area",
     "expected_time": "11:00",
     "transport": "Personal Vehicle",
@@ -1633,7 +1633,7 @@
   },
   {
     "id": "unit_103",
-    "unit_number": "67",
+    "unit_number": "Suwannee River Area",
     "council": "Suwannee River Area",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1649,7 +1649,7 @@
   },
   {
     "id": "unit_104",
-    "unit_number": "76",
+    "unit_number": "Dan Beard",
     "council": "Dan Beard",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1665,7 +1665,7 @@
   },
   {
     "id": "unit_105",
-    "unit_number": "78",
+    "unit_number": "Dan Beard",
     "council": "Dan Beard",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1681,7 +1681,7 @@
   },
   {
     "id": "unit_106",
-    "unit_number": "103",
+    "unit_number": "Gulf Stream",
     "council": "Gulf Stream",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1697,7 +1697,7 @@
   },
   {
     "id": "unit_107",
-    "unit_number": "105",
+    "unit_number": "Narragansett",
     "council": "Narragansett",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1713,7 +1713,7 @@
   },
   {
     "id": "unit_108",
-    "unit_number": "206",
+    "unit_number": "Greater Alabama",
     "council": "Greater Alabama",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1729,7 +1729,7 @@
   },
   {
     "id": "unit_109",
-    "unit_number": "208",
+    "unit_number": "Greater Alabama",
     "council": "Greater Alabama",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1745,7 +1745,7 @@
   },
   {
     "id": "unit_110",
-    "unit_number": "208",
+    "unit_number": "Greater Alabama",
     "council": "Greater Alabama",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1761,7 +1761,7 @@
   },
   {
     "id": "unit_111",
-    "unit_number": "208",
+    "unit_number": "Greater Alabama",
     "council": "Greater Alabama",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1777,7 +1777,7 @@
   },
   {
     "id": "unit_112",
-    "unit_number": "258",
+    "unit_number": "Northeast Illinois",
     "council": "Northeast Illinois",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": "unit_113",
-    "unit_number": "258",
+    "unit_number": "Northeast Illinois",
     "council": "Northeast Illinois",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1809,7 +1809,7 @@
   },
   {
     "id": "unit_114",
-    "unit_number": "258",
+    "unit_number": "Northeast Illinois",
     "council": "Northeast Illinois",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1825,7 +1825,7 @@
   },
   {
     "id": "unit_115",
-    "unit_number": "258",
+    "unit_number": "Northeast Illinois",
     "council": "Northeast Illinois",
     "expected_time": "11:00",
     "transport": "Trailer",
@@ -1841,7 +1841,7 @@
   },
   {
     "id": "unit_116",
-    "unit_number": "284",
+    "unit_number": "Greater Tampa Bay Area",
     "council": "Greater Tampa Bay Area",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1857,7 +1857,7 @@
   },
   {
     "id": "unit_117",
-    "unit_number": "284",
+    "unit_number": "Greater Tampa Bay Area",
     "council": "Greater Tampa Bay Area",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1873,7 +1873,7 @@
   },
   {
     "id": "unit_118",
-    "unit_number": "285",
+    "unit_number": "Greater Tampa Bay Area",
     "council": "Greater Tampa Bay Area",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1889,7 +1889,7 @@
   },
   {
     "id": "unit_119",
-    "unit_number": "287",
+    "unit_number": "Gulf Stream",
     "council": "Gulf Stream",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1905,7 +1905,7 @@
   },
   {
     "id": "unit_120",
-    "unit_number": "307",
+    "unit_number": "Miami Valley",
     "council": "Miami Valley",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1921,7 +1921,7 @@
   },
   {
     "id": "unit_121",
-    "unit_number": "334",
+    "unit_number": "Miami Valley",
     "council": "Miami Valley",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1937,7 +1937,7 @@
   },
   {
     "id": "unit_122",
-    "unit_number": "374",
+    "unit_number": "Dan Beard",
     "council": "Dan Beard",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1953,7 +1953,7 @@
   },
   {
     "id": "unit_123",
-    "unit_number": "381",
+    "unit_number": "Twin Rivers",
     "council": "Twin Rivers",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -1969,7 +1969,7 @@
   },
   {
     "id": "unit_124",
-    "unit_number": "381",
+    "unit_number": "Twin Rivers",
     "council": "Twin Rivers",
     "expected_time": "11:00",
     "transport": "15-Passenger Van",
@@ -1985,7 +1985,7 @@
   },
   {
     "id": "unit_125",
-    "unit_number": "382",
+    "unit_number": "Twin Rivers",
     "council": "Twin Rivers",
     "expected_time": "11:00",
     "transport": "Motor Coach",
@@ -2001,7 +2001,7 @@
   },
   {
     "id": "unit_126",
-    "unit_number": "216",
+    "unit_number": "Green Mountain",
     "council": "Green Mountain",
     "expected_time": "11:30",
     "transport": "Motor Coach",
@@ -2017,7 +2017,7 @@
   },
   {
     "id": "unit_127",
-    "unit_number": "337",
+    "unit_number": "North Florida",
     "council": "North Florida",
     "expected_time": "11:30",
     "transport": "Motor Coach",
@@ -2033,7 +2033,7 @@
   },
   {
     "id": "unit_128",
-    "unit_number": "371",
+    "unit_number": "Pacific Skyline",
     "council": "Pacific Skyline",
     "expected_time": "11:30",
     "transport": "Motor Coach",
@@ -2049,7 +2049,7 @@
   },
   {
     "id": "unit_129",
-    "unit_number": "373",
+    "unit_number": "Pacific Skyline",
     "council": "Pacific Skyline",
     "expected_time": "11:30",
     "transport": "Motor Coach",
@@ -2065,7 +2065,7 @@
   },
   {
     "id": "unit_130",
-    "unit_number": "395",
+    "unit_number": "Aloha",
     "council": "Aloha",
     "expected_time": "11:30",
     "transport": "Motor Coach",
@@ -2081,7 +2081,7 @@
   },
   {
     "id": "unit_131",
-    "unit_number": "396",
+    "unit_number": "Aloha",
     "council": "Aloha",
     "expected_time": "11:30",
     "transport": "Motor Coach",
@@ -2097,7 +2097,7 @@
   },
   {
     "id": "unit_132",
-    "unit_number": "404",
+    "unit_number": "Bay-Lakes",
     "council": "Bay-Lakes",
     "expected_time": "11:45",
     "transport": "Motor Coach",
@@ -2113,7 +2113,7 @@
   },
   {
     "id": "unit_133",
-    "unit_number": "405",
+    "unit_number": "Bay-Lakes",
     "council": "Bay-Lakes",
     "expected_time": "11:45",
     "transport": "Motor Coach",
@@ -2129,7 +2129,7 @@
   },
   {
     "id": "unit_134",
-    "unit_number": "130",
+    "unit_number": "Western Los Angeles County",
     "council": "Western Los Angeles County",
     "expected_time": "12:00",
     "transport": "Motor Coach",
@@ -2145,7 +2145,7 @@
   },
   {
     "id": "unit_135",
-    "unit_number": "195",
+    "unit_number": "Daniel Boone",
     "council": "Daniel Boone",
     "expected_time": "12:00",
     "transport": "Motor Coach",
@@ -2161,7 +2161,7 @@
   },
   {
     "id": "unit_136",
-    "unit_number": "228",
+    "unit_number": "Old Hickory",
     "council": "Old Hickory",
     "expected_time": "12:00",
     "transport": "Motor Coach",
@@ -2177,7 +2177,7 @@
   },
   {
     "id": "unit_137",
-    "unit_number": "231",
+    "unit_number": "Muskingum Valley",
     "council": "Muskingum Valley",
     "expected_time": "12:00",
     "transport": "Motor Coach",
@@ -2193,7 +2193,7 @@
   },
   {
     "id": "unit_138",
-    "unit_number": "260",
+    "unit_number": "Conquistador",
     "council": "Conquistador",
     "expected_time": "12:00",
     "transport": "15-Passenger Van",
@@ -2209,7 +2209,7 @@
   },
   {
     "id": "unit_139",
-    "unit_number": "261",
+    "unit_number": "Conquistador",
     "council": "Conquistador",
     "expected_time": "12:00",
     "transport": "15-Passenger Van",
@@ -2225,7 +2225,7 @@
   },
   {
     "id": "unit_140",
-    "unit_number": "301",
+    "unit_number": "Mountain West",
     "council": "Mountain West",
     "expected_time": "12:00",
     "transport": "Motor Coach",
@@ -2241,7 +2241,7 @@
   },
   {
     "id": "unit_141",
-    "unit_number": "302",
+    "unit_number": "Mountain West",
     "council": "Mountain West",
     "expected_time": "12:00",
     "transport": "Motor Coach",
@@ -2257,7 +2257,7 @@
   },
   {
     "id": "unit_142",
-    "unit_number": "366",
+    "unit_number": "Piedmont",
     "council": "Piedmont",
     "expected_time": "12:00",
     "transport": "Motor Coach",
@@ -2273,7 +2273,7 @@
   },
   {
     "id": "unit_143",
-    "unit_number": "366",
+    "unit_number": "Piedmont",
     "council": "Piedmont",
     "expected_time": "12:00",
     "transport": "Trailer",
@@ -2289,7 +2289,7 @@
   },
   {
     "id": "unit_144",
-    "unit_number": "366",
+    "unit_number": "Piedmont",
     "council": "Piedmont",
     "expected_time": "12:00",
     "transport": "Personal Vehicle",
@@ -2305,7 +2305,7 @@
   },
   {
     "id": "unit_145",
-    "unit_number": "406",
+    "unit_number": "Heart of Virginia",
     "council": "Heart of Virginia",
     "expected_time": "12:00",
     "transport": "Motor Coach",
@@ -2321,7 +2321,7 @@
   },
   {
     "id": "unit_146",
-    "unit_number": "407",
+    "unit_number": "Heart of Virginia",
     "council": "Heart of Virginia",
     "expected_time": "12:00",
     "transport": "Motor Coach",
@@ -2337,7 +2337,7 @@
   },
   {
     "id": "unit_147",
-    "unit_number": "425",
+    "unit_number": "Conquistador",
     "council": "Conquistador",
     "expected_time": "12:00",
     "transport": "Mini-Van",
@@ -2353,7 +2353,7 @@
   },
   {
     "id": "unit_148",
-    "unit_number": "425",
+    "unit_number": "Conquistador",
     "council": "Conquistador",
     "expected_time": "12:00",
     "transport": "Personal Vehicle",
@@ -2369,7 +2369,7 @@
   },
   {
     "id": "unit_149",
-    "unit_number": "164",
+    "unit_number": "Virginia Headwaters",
     "council": "Virginia Headwaters",
     "expected_time": "12:15",
     "transport": "Motor Coach",
@@ -2385,7 +2385,7 @@
   },
   {
     "id": "unit_150",
-    "unit_number": "71",
+    "unit_number": "Pathway to Adventure",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2401,7 +2401,7 @@
   },
   {
     "id": "unit_151",
-    "unit_number": "71",
+    "unit_number": "Pathway to Adventure",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2417,7 +2417,7 @@
   },
   {
     "id": "unit_152",
-    "unit_number": "71",
+    "unit_number": "Pathway to Adventure",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2433,7 +2433,7 @@
   },
   {
     "id": "unit_153",
-    "unit_number": "72",
+    "unit_number": "Pathway to Adventure",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2449,7 +2449,7 @@
   },
   {
     "id": "unit_154",
-    "unit_number": "72",
+    "unit_number": "Pathway to Adventure",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2465,7 +2465,7 @@
   },
   {
     "id": "unit_155",
-    "unit_number": "74",
+    "unit_number": "Pathway to Adventure",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2481,7 +2481,7 @@
   },
   {
     "id": "unit_156",
-    "unit_number": "74",
+    "unit_number": "Pathway to Adventure",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2497,7 +2497,7 @@
   },
   {
     "id": "unit_157",
-    "unit_number": "74",
+    "unit_number": "Pathway to Adventure",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2513,7 +2513,7 @@
   },
   {
     "id": "unit_158",
-    "unit_number": "123",
+    "unit_number": "East Carolina",
     "council": "East Carolina",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2529,7 +2529,7 @@
   },
   {
     "id": "unit_159",
-    "unit_number": "124",
+    "unit_number": "East Carolina",
     "council": "East Carolina",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2545,7 +2545,7 @@
   },
   {
     "id": "unit_160",
-    "unit_number": "125",
+    "unit_number": "East Carolina",
     "council": "East Carolina",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2561,7 +2561,7 @@
   },
   {
     "id": "unit_161",
-    "unit_number": "290",
+    "unit_number": "Tuscarora",
     "council": "Tuscarora",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2577,7 +2577,7 @@
   },
   {
     "id": "unit_162",
-    "unit_number": "379",
+    "unit_number": "East Carolina",
     "council": "East Carolina",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2593,7 +2593,7 @@
   },
   {
     "id": "unit_163",
-    "unit_number": "424",
+    "unit_number": "Occoneechee",
     "council": "Occoneechee",
     "expected_time": "12:30",
     "transport": "Motor Coach",
@@ -2609,7 +2609,7 @@
   },
   {
     "id": "unit_164",
-    "unit_number": "64",
+    "unit_number": "Puerto Rico",
     "council": "Puerto Rico",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2625,7 +2625,7 @@
   },
   {
     "id": "unit_165",
-    "unit_number": "65",
+    "unit_number": "Puerto Rico",
     "council": "Puerto Rico",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2641,7 +2641,7 @@
   },
   {
     "id": "unit_166",
-    "unit_number": "122",
+    "unit_number": "Coronado Area",
     "council": "Coronado Area",
     "expected_time": "13:00",
     "transport": "15-Passenger Van",
@@ -2657,7 +2657,7 @@
   },
   {
     "id": "unit_167",
-    "unit_number": "122",
+    "unit_number": "Coronado Area",
     "council": "Coronado Area",
     "expected_time": "13:00",
     "transport": "15-Passenger Van",
@@ -2673,7 +2673,7 @@
   },
   {
     "id": "unit_168",
-    "unit_number": "122",
+    "unit_number": "Coronado Area",
     "council": "Coronado Area",
     "expected_time": "13:00",
     "transport": "Personal Vehicle",
@@ -2689,7 +2689,7 @@
   },
   {
     "id": "unit_169",
-    "unit_number": "156",
+    "unit_number": "Spirit of Adventure",
     "council": "Spirit of Adventure",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2705,7 +2705,7 @@
   },
   {
     "id": "unit_170",
-    "unit_number": "157",
+    "unit_number": "Spirit of Adventure",
     "council": "Spirit of Adventure",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2721,7 +2721,7 @@
   },
   {
     "id": "unit_171",
-    "unit_number": "158",
+    "unit_number": "Spirit of Adventure",
     "council": "Spirit of Adventure",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2737,7 +2737,7 @@
   },
   {
     "id": "unit_172",
-    "unit_number": "177",
+    "unit_number": "Orange County",
     "council": "Orange County",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2753,7 +2753,7 @@
   },
   {
     "id": "unit_173",
-    "unit_number": "178",
+    "unit_number": "Orange County",
     "council": "Orange County",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2769,7 +2769,7 @@
   },
   {
     "id": "unit_174",
-    "unit_number": "179",
+    "unit_number": "Orange County",
     "council": "Orange County",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2785,7 +2785,7 @@
   },
   {
     "id": "unit_175",
-    "unit_number": "180",
+    "unit_number": "Orange County",
     "council": "Orange County",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2801,7 +2801,7 @@
   },
   {
     "id": "unit_176",
-    "unit_number": "209",
+    "unit_number": "Great Trail",
     "council": "Great Trail",
     "expected_time": "13:00",
     "transport": "15-Passenger Van",
@@ -2817,7 +2817,7 @@
   },
   {
     "id": "unit_177",
-    "unit_number": "209",
+    "unit_number": "Great Trail",
     "council": "Great Trail",
     "expected_time": "13:00",
     "transport": "15-Passenger Van",
@@ -2833,7 +2833,7 @@
   },
   {
     "id": "unit_178",
-    "unit_number": "252",
+    "unit_number": "Chester County",
     "council": "Chester County",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2849,7 +2849,7 @@
   },
   {
     "id": "unit_179",
-    "unit_number": "266",
+    "unit_number": "Rainbow",
     "council": "Rainbow",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2865,7 +2865,7 @@
   },
   {
     "id": "unit_180",
-    "unit_number": "266",
+    "unit_number": "Rainbow",
     "council": "Rainbow",
     "expected_time": "13:00",
     "transport": "Personal Vehicle",
@@ -2881,7 +2881,7 @@
   },
   {
     "id": "unit_181",
-    "unit_number": "278",
+    "unit_number": "Chester County",
     "council": "Chester County",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2897,7 +2897,7 @@
   },
   {
     "id": "unit_182",
-    "unit_number": "293",
+    "unit_number": "Rainbow",
     "council": "Rainbow",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2913,7 +2913,7 @@
   },
   {
     "id": "unit_183",
-    "unit_number": "323",
+    "unit_number": "Chester County",
     "council": "Chester County",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2929,7 +2929,7 @@
   },
   {
     "id": "unit_184",
-    "unit_number": "333",
+    "unit_number": "Mid-America",
     "council": "Mid-America",
     "expected_time": "13:00",
     "transport": "15-Passenger Van",
@@ -2945,7 +2945,7 @@
   },
   {
     "id": "unit_185",
-    "unit_number": "333",
+    "unit_number": "Mid-America",
     "council": "Mid-America",
     "expected_time": "13:00",
     "transport": "15-Passenger Van",
@@ -2961,7 +2961,7 @@
   },
   {
     "id": "unit_186",
-    "unit_number": "333",
+    "unit_number": "Mid-America",
     "council": "Mid-America",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -2977,7 +2977,7 @@
   },
   {
     "id": "unit_187",
-    "unit_number": "333",
+    "unit_number": "Mid-America",
     "council": "Mid-America",
     "expected_time": "13:00",
     "transport": "Trailer",
@@ -2993,7 +2993,7 @@
   },
   {
     "id": "unit_188",
-    "unit_number": "333",
+    "unit_number": "Mid-America",
     "council": "Mid-America",
     "expected_time": "13:00",
     "transport": "Personal Vehicle",
@@ -3009,7 +3009,7 @@
   },
   {
     "id": "unit_189",
-    "unit_number": "398",
+    "unit_number": "Northern Star",
     "council": "Northern Star",
     "expected_time": "13:00",
     "transport": "Motor Coach",
@@ -3025,7 +3025,7 @@
   },
   {
     "id": "unit_190",
-    "unit_number": "170",
+    "unit_number": "Verdugo Hills",
     "council": "Verdugo Hills",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3041,7 +3041,7 @@
   },
   {
     "id": "unit_191",
-    "unit_number": "205",
+    "unit_number": "Colonial Virginia",
     "council": "Colonial Virginia",
     "expected_time": "13:30",
     "transport": "Personal Vehicle",
@@ -3057,7 +3057,7 @@
   },
   {
     "id": "unit_192",
-    "unit_number": "205",
+    "unit_number": "Colonial Virginia",
     "council": "Colonial Virginia",
     "expected_time": "13:30",
     "transport": "Personal Vehicle",
@@ -3073,7 +3073,7 @@
   },
   {
     "id": "unit_193",
-    "unit_number": "274",
+    "unit_number": "Lake Erie",
     "council": "Lake Erie",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3089,7 +3089,7 @@
   },
   {
     "id": "unit_194",
-    "unit_number": "275",
+    "unit_number": "Lake Erie",
     "council": "Lake Erie",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3105,7 +3105,7 @@
   },
   {
     "id": "unit_195",
-    "unit_number": "316",
+    "unit_number": "Chippewa Valley",
     "council": "Chippewa Valley",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3121,7 +3121,7 @@
   },
   {
     "id": "unit_196",
-    "unit_number": "317",
+    "unit_number": "Chippewa Valley",
     "council": "Chippewa Valley",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3137,7 +3137,7 @@
   },
   {
     "id": "unit_197",
-    "unit_number": "317",
+    "unit_number": "Chippewa Valley",
     "council": "Chippewa Valley",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3153,7 +3153,7 @@
   },
   {
     "id": "unit_198",
-    "unit_number": "325",
+    "unit_number": "Mid-Iowa",
     "council": "Mid-Iowa",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3169,7 +3169,7 @@
   },
   {
     "id": "unit_199",
-    "unit_number": "348",
+    "unit_number": "Golden Spread",
     "council": "Golden Spread",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3185,7 +3185,7 @@
   },
   {
     "id": "unit_200",
-    "unit_number": "349",
+    "unit_number": "Golden Spread",
     "council": "Golden Spread",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3201,7 +3201,7 @@
   },
   {
     "id": "unit_201",
-    "unit_number": "383",
+    "unit_number": "Lake Erie",
     "council": "Lake Erie",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3217,7 +3217,7 @@
   },
   {
     "id": "unit_202",
-    "unit_number": "399",
+    "unit_number": "Northern Star",
     "council": "Northern Star",
     "expected_time": "13:30",
     "transport": "Motor Coach",
@@ -3233,7 +3233,7 @@
   },
   {
     "id": "unit_203",
-    "unit_number": "421",
+    "unit_number": "Chippewa Valley",
     "council": "Chippewa Valley",
     "expected_time": "13:30",
     "transport": "15-Passenger Van",
@@ -3249,7 +3249,7 @@
   },
   {
     "id": "unit_204",
-    "unit_number": "400",
+    "unit_number": "Northern Star",
     "council": "Northern Star",
     "expected_time": "13:45",
     "transport": "Motor Coach",
@@ -3265,7 +3265,7 @@
   },
   {
     "id": "unit_205",
-    "unit_number": "9",
+    "unit_number": "Michigan Crossroads",
     "council": "Michigan Crossroads",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3281,7 +3281,7 @@
   },
   {
     "id": "unit_206",
-    "unit_number": "10",
+    "unit_number": "Michigan Crossroads",
     "council": "Michigan Crossroads",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3297,7 +3297,7 @@
   },
   {
     "id": "unit_207",
-    "unit_number": "13",
+    "unit_number": "Michigan Crossroads",
     "council": "Michigan Crossroads",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3313,7 +3313,7 @@
   },
   {
     "id": "unit_208",
-    "unit_number": "34",
+    "unit_number": "Cradle of Liberty",
     "council": "Cradle of Liberty",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3329,7 +3329,7 @@
   },
   {
     "id": "unit_209",
-    "unit_number": "35",
+    "unit_number": "Cradle of Liberty",
     "council": "Cradle of Liberty",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3345,7 +3345,7 @@
   },
   {
     "id": "unit_210",
-    "unit_number": "36",
+    "unit_number": "Cradle of Liberty",
     "council": "Cradle of Liberty",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3361,7 +3361,7 @@
   },
   {
     "id": "unit_211",
-    "unit_number": "37",
+    "unit_number": "Cradle of Liberty",
     "council": "Cradle of Liberty",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3377,7 +3377,7 @@
   },
   {
     "id": "unit_212",
-    "unit_number": "83",
+    "unit_number": "Western Massachusetts",
     "council": "Western Massachusetts",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3393,7 +3393,7 @@
   },
   {
     "id": "unit_213",
-    "unit_number": "101",
+    "unit_number": "Illowa",
     "council": "Illowa",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3409,7 +3409,7 @@
   },
   {
     "id": "unit_214",
-    "unit_number": "101",
+    "unit_number": "Illowa",
     "council": "Illowa",
     "expected_time": "14:00",
     "transport": "Personal Vehicle",
@@ -3425,7 +3425,7 @@
   },
   {
     "id": "unit_215",
-    "unit_number": "102",
+    "unit_number": "Illowa",
     "council": "Illowa",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3441,7 +3441,7 @@
   },
   {
     "id": "unit_216",
-    "unit_number": "102",
+    "unit_number": "Illowa",
     "council": "Illowa",
     "expected_time": "14:00",
     "transport": "Personal Vehicle",
@@ -3457,7 +3457,7 @@
   },
   {
     "id": "unit_217",
-    "unit_number": "119",
+    "unit_number": "Central North Carolina",
     "council": "Central North Carolina",
     "expected_time": "14:00",
     "transport": "15-Passenger Van",
@@ -3473,7 +3473,7 @@
   },
   {
     "id": "unit_218",
-    "unit_number": "119",
+    "unit_number": "Central North Carolina",
     "council": "Central North Carolina",
     "expected_time": "14:00",
     "transport": "Personal Vehicle",
@@ -3489,7 +3489,7 @@
   },
   {
     "id": "unit_219",
-    "unit_number": "162",
+    "unit_number": "Chief Seattle",
     "council": "Chief Seattle",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3505,7 +3505,7 @@
   },
   {
     "id": "unit_220",
-    "unit_number": "163",
+    "unit_number": "Chief Seattle",
     "council": "Chief Seattle",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3521,7 +3521,7 @@
   },
   {
     "id": "unit_221",
-    "unit_number": "187",
+    "unit_number": "Moraine Trails",
     "council": "Moraine Trails",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3537,7 +3537,7 @@
   },
   {
     "id": "unit_222",
-    "unit_number": "196",
+    "unit_number": "French Creek",
     "council": "French Creek",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3553,7 +3553,7 @@
   },
   {
     "id": "unit_223",
-    "unit_number": "256",
+    "unit_number": "Heart of New England",
     "council": "Heart of New England",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3569,7 +3569,7 @@
   },
   {
     "id": "unit_224",
-    "unit_number": "262",
+    "unit_number": "Silicon Valley Monterey Bay",
     "council": "Silicon Valley Monterey Bay",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3585,7 +3585,7 @@
   },
   {
     "id": "unit_225",
-    "unit_number": "298",
+    "unit_number": "Cradle of Liberty",
     "council": "Cradle of Liberty",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3601,7 +3601,7 @@
   },
   {
     "id": "unit_226",
-    "unit_number": "304",
+    "unit_number": "Michigan Crossroads",
     "council": "Michigan Crossroads",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3617,7 +3617,7 @@
   },
   {
     "id": "unit_227",
-    "unit_number": "310",
+    "unit_number": "Heart of New England",
     "council": "Heart of New England",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3633,7 +3633,7 @@
   },
   {
     "id": "unit_228",
-    "unit_number": "315",
+    "unit_number": "Heart of New England",
     "council": "Heart of New England",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3649,7 +3649,7 @@
   },
   {
     "id": "unit_229",
-    "unit_number": "315",
+    "unit_number": "Heart of New England",
     "council": "Heart of New England",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3665,7 +3665,7 @@
   },
   {
     "id": "unit_230",
-    "unit_number": "342",
+    "unit_number": "Black Warrior",
     "council": "Black Warrior",
     "expected_time": "14:00",
     "transport": "15-Passenger Van",
@@ -3681,7 +3681,7 @@
   },
   {
     "id": "unit_231",
-    "unit_number": "347",
+    "unit_number": "Tidewater",
     "council": "Tidewater",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3697,7 +3697,7 @@
   },
   {
     "id": "unit_232",
-    "unit_number": "376",
+    "unit_number": "Michigan Crossroads",
     "council": "Michigan Crossroads",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3713,7 +3713,7 @@
   },
   {
     "id": "unit_233",
-    "unit_number": "386",
+    "unit_number": "Tidewater",
     "council": "Tidewater",
     "expected_time": "14:00",
     "transport": "Motor Coach",
@@ -3729,7 +3729,7 @@
   },
   {
     "id": "unit_234",
-    "unit_number": "174",
+    "unit_number": "Golden Gate Area",
     "council": "Golden Gate Area",
     "expected_time": "14:30",
     "transport": "Motor Coach",
@@ -3745,7 +3745,7 @@
   },
   {
     "id": "unit_235",
-    "unit_number": "236",
+    "unit_number": "Grand Teton",
     "council": "Grand Teton",
     "expected_time": "14:30",
     "transport": "Motor Coach",
@@ -3761,7 +3761,7 @@
   },
   {
     "id": "unit_236",
-    "unit_number": "320",
+    "unit_number": "Erie Shores",
     "council": "Erie Shores",
     "expected_time": "14:30",
     "transport": "Motor Coach",
@@ -3777,7 +3777,7 @@
   },
   {
     "id": "unit_237",
-    "unit_number": "320",
+    "unit_number": "Erie Shores",
     "council": "Erie Shores",
     "expected_time": "14:30",
     "transport": "Personal Vehicle",
@@ -3793,7 +3793,7 @@
   },
   {
     "id": "unit_238",
-    "unit_number": "358",
+    "unit_number": "Sagamore",
     "council": "Sagamore",
     "expected_time": "14:30",
     "transport": "Motor Coach",
@@ -3809,7 +3809,7 @@
   },
   {
     "id": "unit_239",
-    "unit_number": "397",
+    "unit_number": "Georgia-Carolina",
     "council": "Georgia-Carolina",
     "expected_time": "14:30",
     "transport": "15-Passenger Van",
@@ -3825,7 +3825,7 @@
   },
   {
     "id": "unit_240",
-    "unit_number": "55",
+    "unit_number": "Del-Mar-Va",
     "council": "Del-Mar-Va",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3841,7 +3841,7 @@
   },
   {
     "id": "unit_241",
-    "unit_number": "58",
+    "unit_number": "Greater St. Louis Area",
     "council": "Greater St. Louis Area",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3857,7 +3857,7 @@
   },
   {
     "id": "unit_242",
-    "unit_number": "60",
+    "unit_number": "Greater St. Louis Area",
     "council": "Greater St. Louis Area",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3873,7 +3873,7 @@
   },
   {
     "id": "unit_243",
-    "unit_number": "128",
+    "unit_number": "Blue Ridge",
     "council": "Blue Ridge",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3889,7 +3889,7 @@
   },
   {
     "id": "unit_244",
-    "unit_number": "129",
+    "unit_number": "Blue Ridge",
     "council": "Blue Ridge",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3905,7 +3905,7 @@
   },
   {
     "id": "unit_245",
-    "unit_number": "154",
+    "unit_number": "Mayflower",
     "council": "Mayflower",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3921,7 +3921,7 @@
   },
   {
     "id": "unit_246",
-    "unit_number": "168",
+    "unit_number": "Chickasaw",
     "council": "Chickasaw",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3937,7 +3937,7 @@
   },
   {
     "id": "unit_247",
-    "unit_number": "182",
+    "unit_number": "Long Beach Area",
     "council": "Long Beach Area",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3953,7 +3953,7 @@
   },
   {
     "id": "unit_248",
-    "unit_number": "184",
+    "unit_number": "Long Beach Area",
     "council": "Long Beach Area",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3969,7 +3969,7 @@
   },
   {
     "id": "unit_249",
-    "unit_number": "210",
+    "unit_number": "Three Harbors",
     "council": "Three Harbors",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -3985,7 +3985,7 @@
   },
   {
     "id": "unit_250",
-    "unit_number": "232",
+    "unit_number": "Crossroads of America",
     "council": "Crossroads of America",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -4001,7 +4001,7 @@
   },
   {
     "id": "unit_251",
-    "unit_number": "233",
+    "unit_number": "Crossroads of America",
     "council": "Crossroads of America",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -4017,7 +4017,7 @@
   },
   {
     "id": "unit_252",
-    "unit_number": "247",
+    "unit_number": "West Tennessee Area",
     "council": "West Tennessee Area",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -4033,7 +4033,7 @@
   },
   {
     "id": "unit_253",
-    "unit_number": "251",
+    "unit_number": "Garden State",
     "council": "Garden State",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -4049,7 +4049,7 @@
   },
   {
     "id": "unit_254",
-    "unit_number": "268",
+    "unit_number": "Crossroads of America",
     "council": "Crossroads of America",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -4065,7 +4065,7 @@
   },
   {
     "id": "unit_255",
-    "unit_number": "271",
+    "unit_number": "Mobile Area",
     "council": "Mobile Area",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -4081,7 +4081,7 @@
   },
   {
     "id": "unit_256",
-    "unit_number": "277",
+    "unit_number": "Central Minnesota",
     "council": "Central Minnesota",
     "expected_time": "15:00",
     "transport": "15-Passenger Van",
@@ -4097,7 +4097,7 @@
   },
   {
     "id": "unit_257",
-    "unit_number": "277",
+    "unit_number": "Central Minnesota",
     "council": "Central Minnesota",
     "expected_time": "15:00",
     "transport": "15-Passenger Van",
@@ -4113,7 +4113,7 @@
   },
   {
     "id": "unit_258",
-    "unit_number": "329",
+    "unit_number": "High Desert Council",
     "council": "High Desert Council",
     "expected_time": "15:00",
     "transport": "15-Passenger Van",
@@ -4129,7 +4129,7 @@
   },
   {
     "id": "unit_259",
-    "unit_number": "329",
+    "unit_number": "High Desert Council",
     "council": "High Desert Council",
     "expected_time": "15:00",
     "transport": "15-Passenger Van",
@@ -4145,7 +4145,7 @@
   },
   {
     "id": "unit_260",
-    "unit_number": "359",
+    "unit_number": "Minsi Trails",
     "council": "Minsi Trails",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -4161,7 +4161,7 @@
   },
   {
     "id": "unit_261",
-    "unit_number": "360",
+    "unit_number": "Minsi Trails",
     "council": "Minsi Trails",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -4177,7 +4177,7 @@
   },
   {
     "id": "unit_262",
-    "unit_number": "426",
+    "unit_number": "West Tennessee Area",
     "council": "West Tennessee Area",
     "expected_time": "15:00",
     "transport": "Motor Coach",
@@ -4193,7 +4193,7 @@
   },
   {
     "id": "unit_263",
-    "unit_number": "131",
+    "unit_number": "Sam Houston Area",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
     "transport": "Motor Coach",
@@ -4209,7 +4209,7 @@
   },
   {
     "id": "unit_264",
-    "unit_number": "132",
+    "unit_number": "Sam Houston Area",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
     "transport": "Motor Coach",
@@ -4225,7 +4225,7 @@
   },
   {
     "id": "unit_265",
-    "unit_number": "321",
+    "unit_number": "Sam Houston Area",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
     "transport": "Motor Coach",
@@ -4241,7 +4241,7 @@
   },
   {
     "id": "unit_266",
-    "unit_number": "322",
+    "unit_number": "Sam Houston Area",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
     "transport": "Motor Coach",
@@ -4257,7 +4257,7 @@
   },
   {
     "id": "unit_267",
-    "unit_number": "393",
+    "unit_number": "Sam Houston Area",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
     "transport": "Motor Coach",
@@ -4273,7 +4273,7 @@
   },
   {
     "id": "unit_268",
-    "unit_number": "22",
+    "unit_number": "Lincoln Heritage",
     "council": "Lincoln Heritage",
     "expected_time": "15:30",
     "transport": "Motor Coach",
@@ -4289,7 +4289,7 @@
   },
   {
     "id": "unit_269",
-    "unit_number": "23",
+    "unit_number": "Lincoln Heritage",
     "council": "Lincoln Heritage",
     "expected_time": "15:30",
     "transport": "Motor Coach",
@@ -4305,7 +4305,7 @@
   },
   {
     "id": "unit_270",
-    "unit_number": "23",
+    "unit_number": "Lincoln Heritage",
     "council": "Lincoln Heritage",
     "expected_time": "15:30",
     "transport": "Personal Vehicle",
@@ -4321,7 +4321,7 @@
   },
   {
     "id": "unit_271",
-    "unit_number": "280",
+    "unit_number": "Middle Tennessee",
     "council": "Middle Tennessee",
     "expected_time": "15:30",
     "transport": "Motor Coach",
@@ -4337,7 +4337,7 @@
   },
   {
     "id": "unit_272",
-    "unit_number": "281",
+    "unit_number": "Middle Tennessee",
     "council": "Middle Tennessee",
     "expected_time": "15:30",
     "transport": "Motor Coach",
@@ -4353,7 +4353,7 @@
   },
   {
     "id": "unit_273",
-    "unit_number": "350",
+    "unit_number": "Cherokee Area",
     "council": "Cherokee Area",
     "expected_time": "15:30",
     "transport": "Motor Coach",
@@ -4369,7 +4369,7 @@
   },
   {
     "id": "unit_274",
-    "unit_number": "350",
+    "unit_number": "Cherokee Area",
     "council": "Cherokee Area",
     "expected_time": "15:30",
     "transport": "Personal Vehicle",
@@ -4385,7 +4385,7 @@
   },
   {
     "id": "unit_275",
-    "unit_number": "351",
+    "unit_number": "Cherokee Area",
     "council": "Cherokee Area",
     "expected_time": "15:30",
     "transport": "Motor Coach",
@@ -4401,7 +4401,7 @@
   },
   {
     "id": "unit_276",
-    "unit_number": "351",
+    "unit_number": "Cherokee Area",
     "council": "Cherokee Area",
     "expected_time": "15:30",
     "transport": "Personal Vehicle",
@@ -4417,7 +4417,7 @@
   },
   {
     "id": "unit_277",
-    "unit_number": "402",
+    "unit_number": "Cherokee Area",
     "council": "Cherokee Area",
     "expected_time": "15:30",
     "transport": "Motor Coach",
@@ -4433,7 +4433,7 @@
   },
   {
     "id": "unit_278",
-    "unit_number": "402",
+    "unit_number": "Cherokee Area",
     "council": "Cherokee Area",
     "expected_time": "15:30",
     "transport": "Personal Vehicle",
@@ -4449,7 +4449,7 @@
   },
   {
     "id": "unit_279",
-    "unit_number": "190",
+    "unit_number": "Seneca Waterways",
     "council": "Seneca Waterways",
     "expected_time": "16:00",
     "transport": "Motor Coach",
@@ -4465,7 +4465,7 @@
   },
   {
     "id": "unit_280",
-    "unit_number": "190",
+    "unit_number": "Seneca Waterways",
     "council": "Seneca Waterways",
     "expected_time": "16:00",
     "transport": "Mini-Van",
@@ -4481,7 +4481,7 @@
   },
   {
     "id": "unit_281",
-    "unit_number": "191",
+    "unit_number": "Seneca Waterways",
     "council": "Seneca Waterways",
     "expected_time": "16:00",
     "transport": "Motor Coach",
@@ -4497,7 +4497,7 @@
   },
   {
     "id": "unit_282",
-    "unit_number": "191",
+    "unit_number": "Seneca Waterways",
     "council": "Seneca Waterways",
     "expected_time": "16:00",
     "transport": "Mini-Van",
@@ -4513,7 +4513,7 @@
   },
   {
     "id": "unit_283",
-    "unit_number": "223",
+    "unit_number": "Hoosier Trails",
     "council": "Hoosier Trails",
     "expected_time": "16:00",
     "transport": "15-Passenger Van",
@@ -4529,7 +4529,7 @@
   },
   {
     "id": "unit_284",
-    "unit_number": "223",
+    "unit_number": "Hoosier Trails",
     "council": "Hoosier Trails",
     "expected_time": "16:00",
     "transport": "15-Passenger Van",
@@ -4545,7 +4545,7 @@
   },
   {
     "id": "unit_285",
-    "unit_number": "269",
+    "unit_number": "Golden Empire",
     "council": "Golden Empire",
     "expected_time": "16:00",
     "transport": "Motor Coach",
@@ -4561,7 +4561,7 @@
   },
   {
     "id": "unit_286",
-    "unit_number": "309",
+    "unit_number": "Montana",
     "council": "Montana",
     "expected_time": "16:00",
     "transport": "Motor Coach",
@@ -4577,7 +4577,7 @@
   },
   {
     "id": "unit_287",
-    "unit_number": "309",
+    "unit_number": "Montana",
     "council": "Montana",
     "expected_time": "16:00",
     "transport": "Motor Coach",
@@ -4593,7 +4593,7 @@
   },
   {
     "id": "unit_288",
-    "unit_number": "384",
+    "unit_number": "Theodore Roosevelt",
     "council": "Theodore Roosevelt",
     "expected_time": "16:00",
     "transport": "Motor Coach",
@@ -4609,7 +4609,7 @@
   },
   {
     "id": "unit_289",
-    "unit_number": "385",
+    "unit_number": "Theodore Roosevelt",
     "council": "Theodore Roosevelt",
     "expected_time": "16:00",
     "transport": "Motor Coach",
@@ -4625,7 +4625,7 @@
   },
   {
     "id": "unit_290",
-    "unit_number": "181",
+    "unit_number": "Los Padres",
     "council": "Los Padres",
     "expected_time": "16:30",
     "transport": "Mini-Van",
@@ -4641,7 +4641,7 @@
   },
   {
     "id": "unit_291",
-    "unit_number": "181",
+    "unit_number": "Los Padres",
     "council": "Los Padres",
     "expected_time": "16:30",
     "transport": "Mini-Van",
@@ -4657,7 +4657,7 @@
   },
   {
     "id": "unit_292",
-    "unit_number": "312",
+    "unit_number": "Capitol Area",
     "council": "Capitol Area",
     "expected_time": "16:30",
     "transport": "Motor Coach",
@@ -4673,7 +4673,7 @@
   },
   {
     "id": "unit_293",
-    "unit_number": "313",
+    "unit_number": "Capitol Area",
     "council": "Capitol Area",
     "expected_time": "16:30",
     "transport": "Motor Coach",
@@ -4689,7 +4689,7 @@
   },
   {
     "id": "unit_294",
-    "unit_number": "169",
+    "unit_number": "Sequoia",
     "council": "Sequoia",
     "expected_time": "17:00",
     "transport": "Motor Coach",
@@ -4705,7 +4705,7 @@
   },
   {
     "id": "unit_295",
-    "unit_number": "185",
+    "unit_number": "Greater Hudson Valley",
     "council": "Greater Hudson Valley",
     "expected_time": "17:00",
     "transport": "Personal Vehicle",
@@ -4721,7 +4721,7 @@
   },
   {
     "id": "unit_296",
-    "unit_number": "145",
+    "unit_number": "Leatherstocking",
     "council": "Leatherstocking",
     "expected_time": "18:15",
     "transport": "Motor Coach",
@@ -4737,7 +4737,7 @@
   },
   {
     "id": "unit_297",
-    "unit_number": "401",
+    "unit_number": "Longhouse",
     "council": "Longhouse",
     "expected_time": "18:15",
     "transport": "Motor Coach",
@@ -4753,7 +4753,7 @@
   },
   {
     "id": "unit_298",
-    "unit_number": "401",
+    "unit_number": "Longhouse",
     "council": "Longhouse",
     "expected_time": "18:15",
     "transport": "Personal Vehicle",

@@ -21,5 +21,6 @@ df['time'] = pd.to_datetime(df['DateTime']).dt.time
 
 # Remove the original DateTime column if no longer needed
 df.drop('DateTime', axis=1, inplace=True)
+df.drop('ContingentId', axis=1, inplace=True)
 
 df.to_excel("ContingentTravelDataExport.xlsx", index=False)
