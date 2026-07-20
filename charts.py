@@ -83,7 +83,7 @@ def status_pipeline_bar(stats: dict) -> go.Figure:
     fig = go.Figure()
 
     segments = [
-        ("On-site",       stats["on_site"],     STATUS_COLORS["On-site"]),
+        ("At Basecamp",   stats["on_site"],     STATUS_COLORS["On-site"]),
         ("At South Gate", stats.get("in_transit_sg", 0), STATUS_COLORS["At South Gate"]),
         ("At Ruby",       stats.get("in_transit_ruby", 0), STATUS_COLORS["At Ruby"]),
         ("Not arrived",   stats["not_arrived"],  STATUS_COLORS["Not arrived"]),

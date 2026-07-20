@@ -172,7 +172,7 @@ STATUS_BG = {
     "Not arrived":   ("#F1EFE8", "#5F5E5A"),
     "At Ruby":       ("#FAEEDA", "#854F0B"),
     "At South Gate": ("#E6F1FB", "#185FA5"),
-    "At Basecamp":   ("#EAF3DE", "#3B6D11"),
+    "On-site":       ("#EAF3DE", "#3B6D11"),
     "Checked-in":    ("#F3E8FF", "#6B21A8"),
 }
 
@@ -369,7 +369,7 @@ for _, row in display_df.iterrows():
         "Expected":   row["expected_time"],
         "Ruby":       fmt_time(row["ruby_time"]),
         "South Gate": fmt_time(row["south_gate_time"]),
-        "On-site":    fmt_time(row["onsite_time"]),
+        "At Basecamp":    fmt_time(row["onsite_time"]),
         "Check-in":   fmt_time(row["checkin_time"]),
         "Variance":   fmt_variance(row["variance_minutes"]),
         "Notes":      row["last_checkin_notes"],
