@@ -358,7 +358,7 @@ if transport_filter != "All transport":
 
 # display_df = display_df.sort_values("status")
 display_df = display_df.sort_values(
-    "rwc_time",
+    "ruby_time",
     ascending=False,        # most recent at the top
     na_position="last"      # blanks at the bottom
 )
