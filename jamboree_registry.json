@@ -346,6 +346,21 @@
   },
   {
     "id": "unit_24",
+    "unit_number": "3314",
+    "council": "Western New York",
+    "expected_time": "14:00",
+    "transport": "Motor Coach",
+    "unit_type": "Scouts BSA - Boy Troop",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-3",
+    "notes": "One adult is driving to the Welcome Center separately and will get on the bus with the participants to go onto the site.  this has been arranged through the Sub-Camp Chair.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_25",
     "unit_number": "4330A",
     "council": "Greater Colorado",
     "expected_time": "10:00",
@@ -360,7 +375,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_25",
+    "id": "unit_26",
     "unit_number": "4330B",
     "council": "Greater Colorado",
     "expected_time": "10:00",
@@ -375,7 +390,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_26",
+    "id": "unit_27",
     "unit_number": "4329B",
     "council": "Greater Colorado",
     "expected_time": "10:00",
@@ -390,7 +405,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_27",
+    "id": "unit_28",
     "unit_number": "4329A",
     "council": "Greater Colorado",
     "expected_time": "10:00",
@@ -399,21 +414,6 @@
     "basecamp": "Delta",
     "subcamp": "Delta-3",
     "notes": "",
-    "status": "Not arrived",
-    "rwc_time": null,
-    "south_gate_time": null,
-    "onsite_time": null
-  },
-  {
-    "id": "unit_28",
-    "unit_number": "4304A",
-    "council": "Northeast Iowa",
-    "expected_time": "11:00",
-    "transport": "Personal Vehicle",
-    "unit_type": "Scouts BSA - Boy Troop",
-    "basecamp": "Delta",
-    "subcamp": "Delta-3",
-    "notes": "RENTAL",
     "status": "Not arrived",
     "rwc_time": null,
     "south_gate_time": null,
@@ -436,6 +436,21 @@
   },
   {
     "id": "unit_30",
+    "unit_number": "4304A",
+    "council": "Northeast Iowa",
+    "expected_time": "11:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Boy Troop",
+    "basecamp": "Delta",
+    "subcamp": "Delta-3",
+    "notes": "RENTAL",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_31",
     "unit_number": "3323",
     "council": "Del-Mar-Va",
     "expected_time": "15:00",
@@ -450,7 +465,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_31",
+    "id": "unit_32",
     "unit_number": "3230",
     "council": "Greater St. Louis Area",
     "expected_time": "15:00",
@@ -465,7 +480,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_32",
+    "id": "unit_33",
     "unit_number": "3230",
     "council": "Greater St. Louis Area",
     "expected_time": "15:00",
@@ -480,7 +495,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_33",
+    "id": "unit_34",
     "unit_number": "3224A",
     "council": "Greater St. Louis Area",
     "expected_time": "03:00",
@@ -495,7 +510,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_34",
+    "id": "unit_35",
     "unit_number": "4409B",
     "council": "Puerto Rico",
     "expected_time": "13:00",
@@ -510,26 +525,11 @@
     "onsite_time": null
   },
   {
-    "id": "unit_35",
+    "id": "unit_36",
     "unit_number": "4414",
     "council": "Puerto Rico",
     "expected_time": "13:00",
     "transport": "Motor Coach",
-    "unit_type": "Scouts BSA - Boy Troop",
-    "basecamp": "Delta",
-    "subcamp": "Delta-4",
-    "notes": "",
-    "status": "Not arrived",
-    "rwc_time": null,
-    "south_gate_time": null,
-    "onsite_time": null
-  },
-  {
-    "id": "unit_36",
-    "unit_number": "4424B",
-    "council": "Suwannee River Area",
-    "expected_time": "11:00",
-    "transport": "Personal Vehicle",
     "unit_type": "Scouts BSA - Boy Troop",
     "basecamp": "Delta",
     "subcamp": "Delta-4",
@@ -548,7 +548,7 @@
     "unit_type": "Scouts BSA - Boy Troop",
     "basecamp": "Delta",
     "subcamp": "Delta-4",
-    "notes": "Trailer tow vehicle",
+    "notes": "",
     "status": "Not arrived",
     "rwc_time": null,
     "south_gate_time": null,
@@ -563,7 +563,7 @@
     "unit_type": "Scouts BSA - Boy Troop",
     "basecamp": "Delta",
     "subcamp": "Delta-4",
-    "notes": "",
+    "notes": "Trailer tow vehicle",
     "status": "Not arrived",
     "rwc_time": null,
     "south_gate_time": null,
@@ -571,14 +571,14 @@
   },
   {
     "id": "unit_39",
-    "unit_number": "3143",
-    "council": "Mountaineer Area",
-    "expected_time": "10:00",
-    "transport": "Motor Coach",
+    "unit_number": "4424B",
+    "council": "Suwannee River Area",
+    "expected_time": "11:00",
+    "transport": "Personal Vehicle",
     "unit_type": "Scouts BSA - Boy Troop",
-    "basecamp": "Charlie",
-    "subcamp": "Charlie-1",
-    "notes": "White charter bus with WVU or West Virginia University on the sides.",
+    "basecamp": "Delta",
+    "subcamp": "Delta-4",
+    "notes": "",
     "status": "Not arrived",
     "rwc_time": null,
     "south_gate_time": null,
@@ -604,6 +604,21 @@
     "unit_number": "3143",
     "council": "Mountaineer Area",
     "expected_time": "10:00",
+    "transport": "Motor Coach",
+    "unit_type": "Scouts BSA - Boy Troop",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-1",
+    "notes": "White charter bus with WVU or West Virginia University on the sides.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_42",
+    "unit_number": "3143",
+    "council": "Mountaineer Area",
+    "expected_time": "10:00",
     "transport": "Personal Vehicle",
     "unit_type": "Scouts BSA - Boy Troop",
     "basecamp": "Charlie",
@@ -615,7 +630,37 @@
     "onsite_time": null
   },
   {
-    "id": "unit_42",
+    "id": "unit_43",
+    "unit_number": "3122A",
+    "council": "Mountaineer Area",
+    "expected_time": "10:00",
+    "transport": "Motor Coach",
+    "unit_type": "Venturing Crew",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-1",
+    "notes": "White charter bus with WVU or West Virginia University on the sides.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_44",
+    "unit_number": "3122B",
+    "council": "Mountaineer Area",
+    "expected_time": "10:00",
+    "transport": "Motor Coach",
+    "unit_type": "Scouts BSA - Girl Troop",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-1",
+    "notes": "White charter bus with WVU or West Virginia University on the sides.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_45",
     "unit_number": "3144",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
@@ -630,7 +675,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_43",
+    "id": "unit_46",
     "unit_number": "3144",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
@@ -645,7 +690,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_44",
+    "id": "unit_47",
     "unit_number": "3144",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
@@ -660,7 +705,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_45",
+    "id": "unit_48",
     "unit_number": "3145",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
@@ -675,7 +720,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_46",
+    "id": "unit_49",
     "unit_number": "3145",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
@@ -690,7 +735,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_47",
+    "id": "unit_50",
     "unit_number": "3120A",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
@@ -705,7 +750,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_48",
+    "id": "unit_51",
     "unit_number": "3120A",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
@@ -720,7 +765,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_49",
+    "id": "unit_52",
     "unit_number": "3120A",
     "council": "Pathway to Adventure",
     "expected_time": "12:30",
@@ -735,7 +780,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_50",
+    "id": "unit_53",
     "unit_number": "3232",
     "council": "Dan Beard",
     "expected_time": "11:00",
@@ -750,7 +795,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_51",
+    "id": "unit_54",
     "unit_number": "3233A",
     "council": "Dan Beard",
     "expected_time": "11:00",
@@ -765,7 +810,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_52",
+    "id": "unit_55",
     "unit_number": "3119",
     "council": "National Capital Area",
     "expected_time": "13:00",
@@ -780,7 +825,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_53",
+    "id": "unit_56",
     "unit_number": "3119",
     "council": "National Capital Area",
     "expected_time": "13:00",
@@ -795,7 +840,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_54",
+    "id": "unit_57",
     "unit_number": "3239",
     "council": "Western Massachusetts",
     "expected_time": "14:00",
@@ -810,7 +855,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_55",
+    "id": "unit_58",
     "unit_number": "3341",
     "council": "Northern New Jersey",
     "expected_time": "07:00",
@@ -825,7 +870,37 @@
     "onsite_time": null
   },
   {
-    "id": "unit_56",
+    "id": "unit_59",
+    "unit_number": "4419A",
+    "council": "Southwest Florida",
+    "expected_time": "15:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Family Troop",
+    "basecamp": "Delta",
+    "subcamp": "Delta-4",
+    "notes": "I75 to Hwy 301 to I-10 East to I-95 North to I-26 West to I-77 North to Summersville/US-19 N onto US-19-ALT N. then turn left onto Hazel Ruby Lane.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_60",
+    "unit_number": "4419A",
+    "council": "Southwest Florida",
+    "expected_time": "15:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Family Troop",
+    "basecamp": "Delta",
+    "subcamp": "Delta-4",
+    "notes": "I-75 to Hwy 301 to I-10 east to I 95 north to I-26 West to I-77Norht to Sumersville/US 19 North then Left onto Hazel Ruby Lane",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_61",
     "unit_number": "4304B",
     "council": "Twin Valley",
     "expected_time": "10:00",
@@ -840,7 +915,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_57",
+    "id": "unit_62",
     "unit_number": "3246A",
     "council": "Baltimore Area",
     "expected_time": "09:00",
@@ -855,7 +930,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_58",
+    "id": "unit_63",
     "unit_number": "3246B",
     "council": "Baltimore Area",
     "expected_time": "09:00",
@@ -870,7 +945,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_59",
+    "id": "unit_64",
     "unit_number": "3133",
     "council": "National Capital Area",
     "expected_time": "13:00",
@@ -885,7 +960,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_60",
+    "id": "unit_65",
     "unit_number": "3135",
     "council": "National Capital Area",
     "expected_time": "13:00",
@@ -900,7 +975,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_61",
+    "id": "unit_66",
     "unit_number": "3135",
     "council": "National Capital Area",
     "expected_time": "13:00",
@@ -915,7 +990,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_62",
+    "id": "unit_67",
     "unit_number": "3136",
     "council": "National Capital Area",
     "expected_time": "13:00",
@@ -930,7 +1005,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_63",
+    "id": "unit_68",
     "unit_number": "4224",
     "council": "Indian Waters",
     "expected_time": "15:00",
@@ -945,7 +1020,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_64",
+    "id": "unit_69",
     "unit_number": "3317",
     "council": "Illowa",
     "expected_time": "14:00",
@@ -960,7 +1035,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_65",
+    "id": "unit_70",
     "unit_number": "3317",
     "council": "Illowa",
     "expected_time": "14:00",
@@ -975,7 +1050,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_66",
+    "id": "unit_71",
     "unit_number": "3332A",
     "council": "Illowa",
     "expected_time": "14:00",
@@ -990,7 +1065,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_67",
+    "id": "unit_72",
     "unit_number": "3332A",
     "council": "Illowa",
     "expected_time": "14:00",
@@ -1005,7 +1080,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_68",
+    "id": "unit_73",
     "unit_number": "4417B",
     "council": "Gulf Stream",
     "expected_time": "11:00",
@@ -1020,7 +1095,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_69",
+    "id": "unit_74",
     "unit_number": "3126",
     "council": "Narragansett",
     "expected_time": "11:00",
@@ -1035,7 +1110,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_70",
+    "id": "unit_75",
     "unit_number": "3125B",
     "council": "Narragansett",
     "expected_time": "11:00",
@@ -1050,7 +1125,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_71",
+    "id": "unit_76",
     "unit_number": "4322",
     "council": "Cascade Pacific",
     "expected_time": "10:30",
@@ -1065,7 +1140,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_72",
+    "id": "unit_77",
     "unit_number": "4323",
     "council": "Cascade Pacific",
     "expected_time": "10:30",
@@ -1080,7 +1155,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_73",
+    "id": "unit_78",
     "unit_number": "4321A",
     "council": "Cascade Pacific",
     "expected_time": "10:30",
@@ -1095,82 +1170,82 @@
     "onsite_time": null
   },
   {
-    "id": "unit_74",
-    "unit_number": "4242B",
-    "council": "Central North Carolina",
-    "expected_time": "14:00",
-    "transport": "Personal Vehicle",
-    "unit_type": "Scouts BSA - Boy Troop",
-    "basecamp": "Delta",
-    "subcamp": "Delta-2",
-    "notes": "We will have 1 15-Passenger Van that will not be staying. Just dropping off. Will also have a Truck & Trailer that will be on site. 14 members will be in the Van, 4 members will be in the Truck.",
-    "status": "Not arrived",
-    "rwc_time": null,
-    "south_gate_time": null,
-    "onsite_time": null
-  },
-  {
-    "id": "unit_75",
-    "unit_number": "4242B",
-    "council": "Central North Carolina",
-    "expected_time": "14:00",
-    "transport": "Personal Vehicle",
-    "unit_type": "Scouts BSA - Boy Troop",
-    "basecamp": "Delta",
-    "subcamp": "Delta-2",
-    "notes": "We will have 1 15-Passenger Van that will not be staying. Just dropping off. Will also have a Truck & Trailer that will be on site. 14 members will be in the Van, 4 members will be in the Truck.",
-    "status": "Not arrived",
-    "rwc_time": null,
-    "south_gate_time": null,
-    "onsite_time": null
-  },
-  {
-    "id": "unit_76",
-    "unit_number": "3227A",
-    "council": "Coronado Area",
-    "expected_time": "13:00",
-    "transport": "Personal Vehicle",
-    "unit_type": "Scouts BSA - Family Troop",
-    "basecamp": "Charlie",
-    "subcamp": "Charlie-2",
-    "notes": "",
-    "status": "Not arrived",
-    "rwc_time": null,
-    "south_gate_time": null,
-    "onsite_time": null
-  },
-  {
-    "id": "unit_77",
-    "unit_number": "3227A",
-    "council": "Coronado Area",
-    "expected_time": "13:00",
-    "transport": "Personal Vehicle",
-    "unit_type": "Scouts BSA - Family Troop",
-    "basecamp": "Charlie",
-    "subcamp": "Charlie-2",
-    "notes": "",
-    "status": "Not arrived",
-    "rwc_time": null,
-    "south_gate_time": null,
-    "onsite_time": null
-  },
-  {
-    "id": "unit_78",
-    "unit_number": "3227A",
-    "council": "Coronado Area",
-    "expected_time": "13:00",
-    "transport": "Personal Vehicle",
-    "unit_type": "Scouts BSA - Family Troop",
-    "basecamp": "Charlie",
-    "subcamp": "Charlie-2",
-    "notes": "",
-    "status": "Not arrived",
-    "rwc_time": null,
-    "south_gate_time": null,
-    "onsite_time": null
-  },
-  {
     "id": "unit_79",
+    "unit_number": "4242B",
+    "council": "Central North Carolina",
+    "expected_time": "14:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Boy Troop",
+    "basecamp": "Delta",
+    "subcamp": "Delta-2",
+    "notes": "We will have 1 15-Passenger Van that will not be staying. Just dropping off. Will also have a Truck & Trailer that will be on site. 14 members will be in the Van, 4 members will be in the Truck.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_80",
+    "unit_number": "4242B",
+    "council": "Central North Carolina",
+    "expected_time": "14:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Boy Troop",
+    "basecamp": "Delta",
+    "subcamp": "Delta-2",
+    "notes": "We will have 1 15-Passenger Van that will not be staying. Just dropping off. Will also have a Truck & Trailer that will be on site. 14 members will be in the Van, 4 members will be in the Truck.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_81",
+    "unit_number": "3227A",
+    "council": "Coronado Area",
+    "expected_time": "13:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Family Troop",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-2",
+    "notes": "",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_82",
+    "unit_number": "3227A",
+    "council": "Coronado Area",
+    "expected_time": "13:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Family Troop",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-2",
+    "notes": "",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_83",
+    "unit_number": "3227A",
+    "council": "Coronado Area",
+    "expected_time": "13:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Family Troop",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-2",
+    "notes": "Vehicle Towing Trailer",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_84",
     "unit_number": "4212A",
     "council": "East Carolina",
     "expected_time": "12:30",
@@ -1185,7 +1260,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_80",
+    "id": "unit_85",
     "unit_number": "4214",
     "council": "East Carolina",
     "expected_time": "12:30",
@@ -1200,7 +1275,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_81",
+    "id": "unit_86",
     "unit_number": "4213A",
     "council": "East Carolina",
     "expected_time": "12:30",
@@ -1215,7 +1290,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_82",
+    "id": "unit_87",
     "unit_number": "4225",
     "council": "Blue Ridge",
     "expected_time": "15:00",
@@ -1230,7 +1305,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_83",
+    "id": "unit_88",
     "unit_number": "4221A",
     "council": "Blue Ridge",
     "expected_time": "15:00",
@@ -1245,7 +1320,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_84",
+    "id": "unit_89",
     "unit_number": "3238B",
     "council": "Western Los Angeles County",
     "expected_time": "13:30",
@@ -1260,7 +1335,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_85",
+    "id": "unit_90",
     "unit_number": "4416",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
@@ -1275,7 +1350,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_86",
+    "id": "unit_91",
     "unit_number": "4410A",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
@@ -1290,7 +1365,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_87",
+    "id": "unit_92",
     "unit_number": "3344A",
     "council": "Cape Cod & Islands",
     "expected_time": "10:00",
@@ -1305,7 +1380,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_88",
+    "id": "unit_93",
     "unit_number": "4241",
     "council": "Atlanta Area",
     "expected_time": "09:00",
@@ -1320,7 +1395,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_89",
+    "id": "unit_94",
     "unit_number": "4240",
     "council": "Atlanta Area",
     "expected_time": "09:00",
@@ -1335,7 +1410,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_90",
+    "id": "unit_95",
     "unit_number": "4210A",
     "council": "Atlanta Area",
     "expected_time": "09:00",
@@ -1350,7 +1425,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_91",
+    "id": "unit_96",
     "unit_number": "3226",
     "council": "Buckskin",
     "expected_time": "09:00",
@@ -1365,7 +1440,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_92",
+    "id": "unit_97",
     "unit_number": "3226",
     "council": "Buckskin",
     "expected_time": "09:00",
@@ -1380,7 +1455,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_93",
+    "id": "unit_98",
     "unit_number": "3226",
     "council": "Buckskin",
     "expected_time": "09:00",
@@ -1395,7 +1470,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_94",
+    "id": "unit_99",
     "unit_number": "3310A",
     "council": "Leatherstocking",
     "expected_time": "18:15",
@@ -1410,7 +1485,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_95",
+    "id": "unit_100",
     "unit_number": "4420",
     "council": "Gulf Coast",
     "expected_time": "09:30",
@@ -1425,7 +1500,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_96",
+    "id": "unit_101",
     "unit_number": "4420",
     "council": "Gulf Coast",
     "expected_time": "09:30",
@@ -1440,7 +1515,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_97",
+    "id": "unit_102",
     "unit_number": "4420",
     "council": "Gulf Coast",
     "expected_time": "09:30",
@@ -1455,7 +1530,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_98",
+    "id": "unit_103",
     "unit_number": "3120B",
     "council": "W. D. Boyce",
     "expected_time": "09:30",
@@ -1470,7 +1545,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_99",
+    "id": "unit_104",
     "unit_number": "3134",
     "council": "W. D. Boyce",
     "expected_time": "09:30",
@@ -1485,7 +1560,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_100",
+    "id": "unit_105",
     "unit_number": "3134",
     "council": "W. D. Boyce",
     "expected_time": "09:30",
@@ -1500,7 +1575,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_101",
+    "id": "unit_106",
     "unit_number": "3207",
     "council": "Mayflower",
     "expected_time": "15:00",
@@ -1515,7 +1590,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_102",
+    "id": "unit_107",
     "unit_number": "3342",
     "council": "Spirit of Adventure",
     "expected_time": "13:00",
@@ -1530,7 +1605,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_103",
+    "id": "unit_108",
     "unit_number": "3343A",
     "council": "Spirit of Adventure",
     "expected_time": "13:00",
@@ -1545,7 +1620,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_104",
+    "id": "unit_109",
     "unit_number": "3343B",
     "council": "Spirit of Adventure",
     "expected_time": "13:00",
@@ -1560,7 +1635,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_105",
+    "id": "unit_110",
     "unit_number": "4209A",
     "council": "Natural State",
     "expected_time": "07:00",
@@ -1575,7 +1650,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_106",
+    "id": "unit_111",
     "unit_number": "4209B",
     "council": "Natural State",
     "expected_time": "10:00",
@@ -1590,7 +1665,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_107",
+    "id": "unit_112",
     "unit_number": "4315",
     "council": "Chief Seattle",
     "expected_time": "14:00",
@@ -1605,7 +1680,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_108",
+    "id": "unit_113",
     "unit_number": "4314A",
     "council": "Chief Seattle",
     "expected_time": "14:00",
@@ -1620,7 +1695,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_109",
+    "id": "unit_114",
     "unit_number": "3225",
     "council": "Virginia Headwaters",
     "expected_time": "12:15",
@@ -1635,7 +1710,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_110",
+    "id": "unit_115",
     "unit_number": "4243A",
     "council": "Chickasaw",
     "expected_time": "15:00",
@@ -1650,7 +1725,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_111",
+    "id": "unit_116",
     "unit_number": "4341B",
     "council": "Sequoia",
     "expected_time": "17:00",
@@ -1665,7 +1740,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_112",
+    "id": "unit_117",
     "unit_number": "4336",
     "council": "Verdugo Hills",
     "expected_time": "13:30",
@@ -1680,7 +1755,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_113",
+    "id": "unit_118",
     "unit_number": "4328",
     "council": "Golden Gate Area",
     "expected_time": "14:30",
@@ -1695,7 +1770,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_114",
+    "id": "unit_119",
     "unit_number": "3309",
     "council": "Orange County",
     "expected_time": "13:00",
@@ -1710,7 +1785,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_115",
+    "id": "unit_120",
     "unit_number": "3310B",
     "council": "Orange County",
     "expected_time": "13:00",
@@ -1725,7 +1800,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_116",
+    "id": "unit_121",
     "unit_number": "3308A",
     "council": "Orange County",
     "expected_time": "13:00",
@@ -1740,7 +1815,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_117",
+    "id": "unit_122",
     "unit_number": "3308B",
     "council": "Orange County",
     "expected_time": "13:00",
@@ -1755,7 +1830,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_118",
+    "id": "unit_123",
     "unit_number": "4310A",
     "council": "Los Padres",
     "expected_time": "16:30",
@@ -1763,29 +1838,14 @@
     "unit_type": "Scouts BSA - Boy Troop",
     "basecamp": "Delta",
     "subcamp": "Delta-3",
-    "notes": "Troop will be arriving in two mini-vans. Will update the vehicle information once the rental is acquired.",
+    "notes": "Troop will be arriving in two mini-vans and one car.",
     "status": "Not arrived",
     "rwc_time": null,
     "south_gate_time": null,
     "onsite_time": null
   },
   {
-    "id": "unit_119",
-    "unit_number": "4310A",
-    "council": "Los Padres",
-    "expected_time": "16:30",
-    "transport": "Personal Vehicle",
-    "unit_type": "Scouts BSA - Boy Troop",
-    "basecamp": "Delta",
-    "subcamp": "Delta-3",
-    "notes": "Troop will be traveling in 2 mini-vans. Will update the vehicle information once the rental is acquired.",
-    "status": "Not arrived",
-    "rwc_time": null,
-    "south_gate_time": null,
-    "onsite_time": null
-  },
-  {
-    "id": "unit_120",
+    "id": "unit_124",
     "unit_number": "4310A",
     "council": "Los Padres",
     "expected_time": "16:30",
@@ -1800,7 +1860,22 @@
     "onsite_time": null
   },
   {
-    "id": "unit_121",
+    "id": "unit_125",
+    "unit_number": "4310A",
+    "council": "Los Padres",
+    "expected_time": "16:30",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Boy Troop",
+    "basecamp": "Delta",
+    "subcamp": "Delta-3",
+    "notes": "",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_126",
     "unit_number": "4342A",
     "council": "Long Beach Area",
     "expected_time": "15:00",
@@ -1815,7 +1890,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_122",
+    "id": "unit_127",
     "unit_number": "4342B",
     "council": "Long Beach Area",
     "expected_time": "15:00",
@@ -1830,7 +1905,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_123",
+    "id": "unit_128",
     "unit_number": "3325",
     "council": "Greater Hudson Valley",
     "expected_time": "09:45",
@@ -1845,7 +1920,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_124",
+    "id": "unit_129",
     "unit_number": "3325",
     "council": "Greater Hudson Valley",
     "expected_time": "17:00",
@@ -1860,7 +1935,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_125",
+    "id": "unit_130",
     "unit_number": "3324A",
     "council": "Greater Hudson Valley",
     "expected_time": "09:45",
@@ -1875,7 +1950,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_126",
+    "id": "unit_131",
     "unit_number": "3112B",
     "council": "Moraine Trails",
     "expected_time": "14:00",
@@ -1890,7 +1965,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_127",
+    "id": "unit_132",
     "unit_number": "3229",
     "council": "Las Vegas Area",
     "expected_time": "09:00",
@@ -1905,7 +1980,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_128",
+    "id": "unit_133",
     "unit_number": "3324B",
     "council": "Seneca Waterways",
     "expected_time": "16:00",
@@ -1920,7 +1995,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_129",
+    "id": "unit_134",
     "unit_number": "3324B",
     "council": "Seneca Waterways",
     "expected_time": "16:00",
@@ -1935,7 +2010,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_130",
+    "id": "unit_135",
     "unit_number": "3337",
     "council": "Seneca Waterways",
     "expected_time": "16:00",
@@ -1950,7 +2025,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_131",
+    "id": "unit_136",
     "unit_number": "3337",
     "council": "Seneca Waterways",
     "expected_time": "16:00",
@@ -1965,7 +2040,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_132",
+    "id": "unit_137",
     "unit_number": "3238A",
     "council": "Abraham Lincoln",
     "expected_time": "15:00",
@@ -1980,7 +2055,22 @@
     "onsite_time": null
   },
   {
-    "id": "unit_133",
+    "id": "unit_138",
+    "unit_number": "3238A",
+    "council": "Abraham Lincoln",
+    "expected_time": "15:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Family Troop",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-2",
+    "notes": "",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_139",
     "unit_number": "3238A",
     "council": "Abraham Lincoln",
     "expected_time": "15:00",
@@ -1995,22 +2085,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_134",
-    "unit_number": "3238A",
-    "council": "Abraham Lincoln",
-    "expected_time": "15:00",
-    "transport": "Personal Vehicle",
-    "unit_type": "Scouts BSA - Family Troop",
-    "basecamp": "Charlie",
-    "subcamp": "Charlie-2",
-    "notes": "",
-    "status": "Not arrived",
-    "rwc_time": null,
-    "south_gate_time": null,
-    "onsite_time": null
-  },
-  {
-    "id": "unit_135",
+    "id": "unit_140",
     "unit_number": "4237",
     "council": "Daniel Boone",
     "expected_time": "12:00",
@@ -2025,7 +2100,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_136",
+    "id": "unit_141",
     "unit_number": "3112A",
     "council": "French Creek",
     "expected_time": "14:00",
@@ -2040,7 +2115,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_137",
+    "id": "unit_142",
     "unit_number": "4230",
     "council": "Circle Ten",
     "expected_time": "13:00",
@@ -2055,7 +2130,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_138",
+    "id": "unit_143",
     "unit_number": "4231",
     "council": "Circle Ten",
     "expected_time": "13:00",
@@ -2070,7 +2145,22 @@
     "onsite_time": null
   },
   {
-    "id": "unit_139",
+    "id": "unit_144",
+    "unit_number": "4215A",
+    "council": "Occoneechee",
+    "expected_time": "12:30",
+    "transport": "Motor Coach",
+    "unit_type": "Scouts BSA - Boy Troop",
+    "basecamp": "Delta",
+    "subcamp": "Delta-2",
+    "notes": "Holiday Tours, 3 buses partnered with East Carolina and Tuscarora Councils. Units: 4212, 4213, 4214 & 4215",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_145",
     "unit_number": "4344A",
     "council": "Northern Lights",
     "expected_time": "16:00",
@@ -2085,7 +2175,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_140",
+    "id": "unit_146",
     "unit_number": "3301A",
     "council": "Colonial Virginia",
     "expected_time": "13:30",
@@ -2100,7 +2190,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_141",
+    "id": "unit_147",
     "unit_number": "3301A",
     "council": "Colonial Virginia",
     "expected_time": "13:30",
@@ -2115,7 +2205,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_142",
+    "id": "unit_148",
     "unit_number": "3301A",
     "council": "Colonial Virginia",
     "expected_time": "13:30",
@@ -2130,7 +2220,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_143",
+    "id": "unit_149",
     "unit_number": "3302A",
     "council": "Colonial Virginia",
     "expected_time": "01:30",
@@ -2145,7 +2235,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_144",
+    "id": "unit_150",
     "unit_number": "3302A",
     "council": "Colonial Virginia",
     "expected_time": "13:30",
@@ -2160,7 +2250,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_145",
+    "id": "unit_151",
     "unit_number": "3302A",
     "council": "Colonial Virginia",
     "expected_time": "13:30",
@@ -2175,7 +2265,22 @@
     "onsite_time": null
   },
   {
-    "id": "unit_146",
+    "id": "unit_152",
+    "unit_number": "3302A",
+    "council": "Colonial Virginia",
+    "expected_time": "13:30",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Girl Troop",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-3",
+    "notes": "",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_153",
     "unit_number": "4417A",
     "council": "Greater Alabama",
     "expected_time": "11:00",
@@ -2190,7 +2295,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_147",
+    "id": "unit_154",
     "unit_number": "4418",
     "council": "Greater Alabama",
     "expected_time": "11:00",
@@ -2205,7 +2310,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_148",
+    "id": "unit_155",
     "unit_number": "4418",
     "council": "Greater Alabama",
     "expected_time": "11:00",
@@ -2220,7 +2325,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_149",
+    "id": "unit_156",
     "unit_number": "4418",
     "council": "Greater Alabama",
     "expected_time": "11:00",
@@ -2235,7 +2340,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_150",
+    "id": "unit_157",
     "unit_number": "4418",
     "council": "Greater Alabama",
     "expected_time": "11:00",
@@ -2250,7 +2355,22 @@
     "onsite_time": null
   },
   {
-    "id": "unit_151",
+    "id": "unit_158",
+    "unit_number": "4418",
+    "council": "Greater Alabama",
+    "expected_time": "11:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Family Troop",
+    "basecamp": "Delta",
+    "subcamp": "Delta-4",
+    "notes": "",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_159",
     "unit_number": "3248A",
     "council": "Great Trail",
     "expected_time": "13:00",
@@ -2265,7 +2385,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_152",
+    "id": "unit_160",
     "unit_number": "3248A",
     "council": "Great Trail",
     "expected_time": "13:00",
@@ -2280,7 +2400,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_153",
+    "id": "unit_161",
     "unit_number": "3104",
     "council": "Three Harbors",
     "expected_time": "15:00",
@@ -2295,7 +2415,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_154",
+    "id": "unit_162",
     "unit_number": "4208B",
     "council": "Longhorn",
     "expected_time": "09:00",
@@ -2310,7 +2430,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_155",
+    "id": "unit_163",
     "unit_number": "4239",
     "council": "Longhorn",
     "expected_time": "09:00",
@@ -2325,7 +2445,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_156",
+    "id": "unit_164",
     "unit_number": "3315",
     "council": "Green Mountain",
     "expected_time": "11:30",
@@ -2340,7 +2460,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_157",
+    "id": "unit_165",
     "unit_number": "3114",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
@@ -2355,7 +2475,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_158",
+    "id": "unit_166",
     "unit_number": "3115",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
@@ -2370,7 +2490,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_159",
+    "id": "unit_167",
     "unit_number": "3116",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
@@ -2385,7 +2505,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_160",
+    "id": "unit_168",
     "unit_number": "3121",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
@@ -2400,7 +2520,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_161",
+    "id": "unit_169",
     "unit_number": "3205A",
     "council": "Hoosier Trails",
     "expected_time": "16:00",
@@ -2415,7 +2535,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_162",
+    "id": "unit_170",
     "unit_number": "3205A",
     "council": "Hoosier Trails",
     "expected_time": "16:00",
@@ -2430,7 +2550,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_163",
+    "id": "unit_171",
     "unit_number": "4208A",
     "council": "Last Frontier",
     "expected_time": "07:00",
@@ -2445,7 +2565,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_164",
+    "id": "unit_172",
     "unit_number": "4208A",
     "council": "Last Frontier",
     "expected_time": "07:00",
@@ -2460,7 +2580,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_165",
+    "id": "unit_173",
     "unit_number": "4238",
     "council": "Last Frontier",
     "expected_time": "07:00",
@@ -2475,22 +2595,22 @@
     "onsite_time": null
   },
   {
-    "id": "unit_166",
+    "id": "unit_174",
     "unit_number": "4244A",
     "council": "Old Hickory",
     "expected_time": "12:00",
-    "transport": "Motor Coach",
+    "transport": "Personal Vehicle",
     "unit_type": "Scouts BSA - Boy Troop",
     "basecamp": "Delta",
     "subcamp": "Delta-2",
-    "notes": "Arriving on a church bus",
+    "notes": "Arriving in two 15-passenger vans, one will have a trailer with gear.",
     "status": "Not arrived",
     "rwc_time": null,
     "south_gate_time": null,
     "onsite_time": null
   },
   {
-    "id": "unit_167",
+    "id": "unit_175",
     "unit_number": "3212A",
     "council": "Muskingum Valley",
     "expected_time": "12:00",
@@ -2505,7 +2625,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_168",
+    "id": "unit_176",
     "unit_number": "3219",
     "council": "Crossroads of America",
     "expected_time": "15:00",
@@ -2520,7 +2640,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_169",
+    "id": "unit_177",
     "unit_number": "3221",
     "council": "Crossroads of America",
     "expected_time": "15:00",
@@ -2535,7 +2655,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_170",
+    "id": "unit_178",
     "unit_number": "4310B",
     "council": "Nevada Area",
     "expected_time": "09:30",
@@ -2550,7 +2670,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_171",
+    "id": "unit_179",
     "unit_number": "4309A",
     "council": "Grand Teton",
     "expected_time": "14:30",
@@ -2565,7 +2685,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_172",
+    "id": "unit_180",
     "unit_number": "3147",
     "council": "Connecticut Yankee",
     "expected_time": "10:00",
@@ -2580,7 +2700,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_173",
+    "id": "unit_181",
     "unit_number": "3148",
     "council": "Connecticut Yankee",
     "expected_time": "10:00",
@@ -2595,7 +2715,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_174",
+    "id": "unit_182",
     "unit_number": "3125A",
     "council": "Connecticut Yankee",
     "expected_time": "10:00",
@@ -2610,7 +2730,22 @@
     "onsite_time": null
   },
   {
-    "id": "unit_175",
+    "id": "unit_183",
+    "unit_number": "4236B",
+    "council": "Northwest Georgia",
+    "expected_time": "10:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Scouts BSA - Family Troop",
+    "basecamp": "Delta",
+    "subcamp": "Delta-2",
+    "notes": "This is a 14 foot enclosed trailer that will be towed by our vehicles and is noted in there.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_184",
     "unit_number": "4236B",
     "council": "Northwest Georgia",
     "expected_time": "10:00",
@@ -2625,7 +2760,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_176",
+    "id": "unit_185",
     "unit_number": "4236B",
     "council": "Northwest Georgia",
     "expected_time": "10:00",
@@ -2640,7 +2775,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_177",
+    "id": "unit_186",
     "unit_number": "4236B",
     "council": "Northwest Georgia",
     "expected_time": "10:00",
@@ -2655,7 +2790,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_178",
+    "id": "unit_187",
     "unit_number": "4236B",
     "council": "Northwest Georgia",
     "expected_time": "10:00",
@@ -2670,7 +2805,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_179",
+    "id": "unit_188",
     "unit_number": "4245A",
     "council": "West Tennessee Area",
     "expected_time": "15:00",
@@ -2685,7 +2820,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_180",
+    "id": "unit_189",
     "unit_number": "3113",
     "council": "Garden State",
     "expected_time": "15:00",
@@ -2700,7 +2835,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_181",
+    "id": "unit_190",
     "unit_number": "3234",
     "council": "Chester County",
     "expected_time": "13:00",
@@ -2715,7 +2850,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_182",
+    "id": "unit_191",
     "unit_number": "4341A",
     "council": "California Inland Empire",
     "expected_time": "10:30",
@@ -2730,7 +2865,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_183",
+    "id": "unit_192",
     "unit_number": "4340",
     "council": "California Inland Empire",
     "expected_time": "10:30",
@@ -2745,7 +2880,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_184",
+    "id": "unit_193",
     "unit_number": "4340",
     "council": "California Inland Empire",
     "expected_time": "10:30",
@@ -2760,7 +2895,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_185",
+    "id": "unit_194",
     "unit_number": "3327A",
     "council": "Heart of New England",
     "expected_time": "14:00",
@@ -2775,7 +2910,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_186",
+    "id": "unit_195",
     "unit_number": "3306A",
     "council": "Daniel Webster",
     "expected_time": "12:00",
@@ -2790,7 +2925,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_187",
+    "id": "unit_196",
     "unit_number": "3237",
     "council": "Northeast Illinois",
     "expected_time": "11:00",
@@ -2805,7 +2940,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_188",
+    "id": "unit_197",
     "unit_number": "3237",
     "council": "Northeast Illinois",
     "expected_time": "11:00",
@@ -2820,7 +2955,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_189",
+    "id": "unit_198",
     "unit_number": "3237",
     "council": "Northeast Illinois",
     "expected_time": "11:00",
@@ -2835,7 +2970,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_190",
+    "id": "unit_199",
     "unit_number": "3237",
     "council": "Northeast Illinois",
     "expected_time": "11:00",
@@ -2850,7 +2985,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_191",
+    "id": "unit_200",
     "unit_number": "4223A",
     "council": "Conquistador",
     "expected_time": "12:00",
@@ -2865,7 +3000,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_192",
+    "id": "unit_201",
     "unit_number": "4223B",
     "council": "Conquistador",
     "expected_time": "12:00",
@@ -2880,7 +3015,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_193",
+    "id": "unit_202",
     "unit_number": "4343",
     "council": "Silicon Valley Monterey Bay",
     "expected_time": "14:00",
@@ -2895,7 +3030,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_194",
+    "id": "unit_203",
     "unit_number": "3345",
     "council": "Rainbow",
     "expected_time": "13:00",
@@ -2910,7 +3045,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_195",
+    "id": "unit_204",
     "unit_number": "3345",
     "council": "Rainbow",
     "expected_time": "13:00",
@@ -2925,7 +3060,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_196",
+    "id": "unit_205",
     "unit_number": "3123",
     "council": "New Birth of Freedom",
     "expected_time": "07:00",
@@ -2940,7 +3075,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_197",
+    "id": "unit_206",
     "unit_number": "3220",
     "council": "Crossroads of America",
     "expected_time": "15:00",
@@ -2955,7 +3090,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_198",
+    "id": "unit_207",
     "unit_number": "4338",
     "council": "Golden Empire",
     "expected_time": "16:00",
@@ -2970,7 +3105,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_199",
+    "id": "unit_208",
     "unit_number": "4408",
     "council": "Mobile Area",
     "expected_time": "15:00",
@@ -2985,7 +3120,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_200",
+    "id": "unit_209",
     "unit_number": "4421",
     "council": "Central Florida",
     "expected_time": "07:00",
@@ -3000,7 +3135,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_201",
+    "id": "unit_210",
     "unit_number": "3332B",
     "council": "Shenandoah Area",
     "expected_time": "06:00",
@@ -3015,7 +3150,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_202",
+    "id": "unit_211",
     "unit_number": "3129",
     "council": "Lake Erie",
     "expected_time": "13:30",
@@ -3030,7 +3165,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_203",
+    "id": "unit_212",
     "unit_number": "3102A",
     "council": "Lake Erie",
     "expected_time": "13:30",
@@ -3045,7 +3180,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_204",
+    "id": "unit_213",
     "unit_number": "4345A",
     "council": "Central Minnesota",
     "expected_time": "15:00",
@@ -3060,7 +3195,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_205",
+    "id": "unit_214",
     "unit_number": "4345A",
     "council": "Central Minnesota",
     "expected_time": "15:00",
@@ -3075,7 +3210,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_206",
+    "id": "unit_215",
     "unit_number": "3235",
     "council": "Chester County",
     "expected_time": "13:00",
@@ -3090,7 +3225,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_207",
+    "id": "unit_216",
     "unit_number": "3240",
     "council": "Hawk Mountain",
     "expected_time": "09:00",
@@ -3105,7 +3240,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_208",
+    "id": "unit_217",
     "unit_number": "4226",
     "council": "Middle Tennessee",
     "expected_time": "15:30",
@@ -3120,7 +3255,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_209",
+    "id": "unit_218",
     "unit_number": "4221B",
     "council": "Middle Tennessee",
     "expected_time": "15:30",
@@ -3135,7 +3270,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_210",
+    "id": "unit_219",
     "unit_number": "4236A",
     "council": "Northeast Georgia",
     "expected_time": "09:00",
@@ -3150,7 +3285,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_211",
+    "id": "unit_220",
     "unit_number": "4403",
     "council": "Greater Tampa Bay Area",
     "expected_time": "11:00",
@@ -3165,7 +3300,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_212",
+    "id": "unit_221",
     "unit_number": "4403",
     "council": "Greater Tampa Bay Area",
     "expected_time": "11:00",
@@ -3180,7 +3315,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_213",
+    "id": "unit_222",
     "unit_number": "4404B",
     "council": "Greater Tampa Bay Area",
     "expected_time": "11:00",
@@ -3195,7 +3330,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_214",
+    "id": "unit_223",
     "unit_number": "4204A",
     "council": "Coastal Carolina",
     "expected_time": "12:00",
@@ -3210,7 +3345,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_215",
+    "id": "unit_224",
     "unit_number": "4411",
     "council": "Gulf Stream",
     "expected_time": "11:00",
@@ -3225,7 +3360,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_216",
+    "id": "unit_225",
     "unit_number": "4219A",
     "council": "Circle Ten",
     "expected_time": "13:00",
@@ -3240,7 +3375,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_217",
+    "id": "unit_226",
     "unit_number": "4219B",
     "council": "Circle Ten",
     "expected_time": "13:00",
@@ -3255,7 +3390,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_218",
+    "id": "unit_227",
     "unit_number": "4215B",
     "council": "Tuscarora",
     "expected_time": "12:30",
@@ -3270,7 +3405,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_219",
+    "id": "unit_228",
     "unit_number": "3344B",
     "council": "Rainbow",
     "expected_time": "13:00",
@@ -3285,7 +3420,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_220",
+    "id": "unit_229",
     "unit_number": "4327",
     "council": "Grand Canyon",
     "expected_time": "09:00",
@@ -3300,7 +3435,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_221",
+    "id": "unit_230",
     "unit_number": "3142",
     "council": "Cradle of Liberty",
     "expected_time": "14:00",
@@ -3308,14 +3443,14 @@
     "unit_type": "Scouts BSA - Boy Troop",
     "basecamp": "Charlie",
     "subcamp": "Charlie-1",
-    "notes": "",
+    "notes": "Cradle of Liberty Contingent - 6 Charter buses",
     "status": "Not arrived",
     "rwc_time": null,
     "south_gate_time": null,
     "onsite_time": null
   },
   {
-    "id": "unit_222",
+    "id": "unit_231",
     "unit_number": "3140",
     "council": "Cradle of Liberty",
     "expected_time": "14:00",
@@ -3330,7 +3465,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_223",
+    "id": "unit_232",
     "unit_number": "4233A",
     "council": "Mountain West",
     "expected_time": "12:00",
@@ -3345,7 +3480,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_224",
+    "id": "unit_233",
     "unit_number": "4233B",
     "council": "Mountain West",
     "expected_time": "12:00",
@@ -3360,7 +3495,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_225",
+    "id": "unit_234",
     "unit_number": "3216",
     "council": "Michigan Crossroads",
     "expected_time": "14:00",
@@ -3375,7 +3510,52 @@
     "onsite_time": null
   },
   {
-    "id": "unit_226",
+    "id": "unit_235",
+    "unit_number": "4345B",
+    "council": "Choctaw Area",
+    "expected_time": "14:00",
+    "transport": "Motor Coach",
+    "unit_type": "Venturing Crew",
+    "basecamp": "Delta",
+    "subcamp": "Delta-3",
+    "notes": "she is riding with a Girls Troop out of DC.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_236",
+    "unit_number": "4345B",
+    "council": "Choctaw Area",
+    "expected_time": "14:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Venturing Crew",
+    "basecamp": "Delta",
+    "subcamp": "Delta-3",
+    "notes": "Rental Van",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_237",
+    "unit_number": "4345B",
+    "council": "Choctaw Area",
+    "expected_time": "14:00",
+    "transport": "Personal Vehicle",
+    "unit_type": "Venturing Crew",
+    "basecamp": "Delta",
+    "subcamp": "Delta-3",
+    "notes": "Rental Van",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_238",
     "unit_number": "3231",
     "council": "Miami Valley",
     "expected_time": "11:00",
@@ -3390,7 +3570,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_227",
+    "id": "unit_239",
     "unit_number": "4424A",
     "council": "Blue Grass",
     "expected_time": "10:00",
@@ -3405,7 +3585,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_228",
+    "id": "unit_240",
     "unit_number": "4305B",
     "council": "Montana",
     "expected_time": "16:00",
@@ -3420,7 +3600,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_229",
+    "id": "unit_241",
     "unit_number": "4305B",
     "council": "Montana",
     "expected_time": "16:00",
@@ -3435,7 +3615,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_230",
+    "id": "unit_242",
     "unit_number": "3327B",
     "council": "Heart of New England",
     "expected_time": "14:00",
@@ -3450,7 +3630,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_231",
+    "id": "unit_243",
     "unit_number": "4402B",
     "council": "Capitol Area",
     "expected_time": "16:30",
@@ -3465,7 +3645,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_232",
+    "id": "unit_244",
     "unit_number": "4401A",
     "council": "Capitol Area",
     "expected_time": "16:30",
@@ -3480,7 +3660,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_233",
+    "id": "unit_245",
     "unit_number": "3318A",
     "council": "Monmouth",
     "expected_time": "10:00",
@@ -3495,7 +3675,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_234",
+    "id": "unit_246",
     "unit_number": "3322A",
     "council": "Heart of New England",
     "expected_time": "14:00",
@@ -3510,7 +3690,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_235",
+    "id": "unit_247",
     "unit_number": "3322A",
     "council": "Heart of New England",
     "expected_time": "14:00",
@@ -3525,7 +3705,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_236",
+    "id": "unit_248",
     "unit_number": "4317",
     "council": "Chippewa Valley",
     "expected_time": "13:30",
@@ -3540,7 +3720,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_237",
+    "id": "unit_249",
     "unit_number": "4316A",
     "council": "Chippewa Valley",
     "expected_time": "13:30",
@@ -3555,7 +3735,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_238",
+    "id": "unit_250",
     "unit_number": "4316A",
     "council": "Chippewa Valley",
     "expected_time": "13:30",
@@ -3570,7 +3750,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_239",
+    "id": "unit_251",
     "unit_number": "4326B",
     "council": "Great Alaska",
     "expected_time": "09:30",
@@ -3585,7 +3765,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_240",
+    "id": "unit_252",
     "unit_number": "3206",
     "council": "Erie Shores",
     "expected_time": "14:30",
@@ -3600,7 +3780,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_241",
+    "id": "unit_253",
     "unit_number": "3206",
     "council": "Erie Shores",
     "expected_time": "14:30",
@@ -3615,7 +3795,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_242",
+    "id": "unit_254",
     "unit_number": "4415A",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
@@ -3630,7 +3810,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_243",
+    "id": "unit_255",
     "unit_number": "4410B",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
@@ -3645,7 +3825,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_244",
+    "id": "unit_256",
     "unit_number": "3236A",
     "council": "Chester County",
     "expected_time": "13:00",
@@ -3660,7 +3840,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_245",
+    "id": "unit_257",
     "unit_number": "3208",
     "council": "Mid-Iowa",
     "expected_time": "13:30",
@@ -3675,7 +3855,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_246",
+    "id": "unit_258",
     "unit_number": "4412A",
     "council": "Gulf Coast",
     "expected_time": "09:30",
@@ -3690,7 +3870,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_247",
+    "id": "unit_259",
     "unit_number": "4412A",
     "council": "Gulf Coast",
     "expected_time": "09:30",
@@ -3705,7 +3885,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_248",
+    "id": "unit_260",
     "unit_number": "4309B",
     "council": "High Desert Council",
     "expected_time": "15:00",
@@ -3720,7 +3900,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_249",
+    "id": "unit_261",
     "unit_number": "4309B",
     "council": "High Desert Council",
     "expected_time": "15:00",
@@ -3735,7 +3915,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_250",
+    "id": "unit_262",
     "unit_number": "3117",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
@@ -3750,7 +3930,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_251",
+    "id": "unit_263",
     "unit_number": "3228A",
     "council": "Cornhusker",
     "expected_time": "10:00",
@@ -3765,7 +3945,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_252",
+    "id": "unit_264",
     "unit_number": "3228B",
     "council": "Cornhusker",
     "expected_time": "10:00",
@@ -3780,7 +3960,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_253",
+    "id": "unit_265",
     "unit_number": "3336",
     "council": "Mid-America",
     "expected_time": "13:00",
@@ -3795,7 +3975,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_254",
+    "id": "unit_266",
     "unit_number": "3336",
     "council": "Mid-America",
     "expected_time": "13:00",
@@ -3810,7 +3990,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_255",
+    "id": "unit_267",
     "unit_number": "3336",
     "council": "Mid-America",
     "expected_time": "13:00",
@@ -3825,7 +4005,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_256",
+    "id": "unit_268",
     "unit_number": "3336",
     "council": "Mid-America",
     "expected_time": "15:30",
@@ -3840,7 +4020,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_257",
+    "id": "unit_269",
     "unit_number": "3336",
     "council": "Mid-America",
     "expected_time": "15:30",
@@ -3855,7 +4035,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_258",
+    "id": "unit_270",
     "unit_number": "3214A",
     "council": "Miami Valley",
     "expected_time": "11:00",
@@ -3870,7 +4050,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_259",
+    "id": "unit_271",
     "unit_number": "3118A",
     "council": "National Capital Area",
     "expected_time": "13:00",
@@ -3885,7 +4065,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_260",
+    "id": "unit_272",
     "unit_number": "3118B",
     "council": "National Capital Area",
     "expected_time": "13:00",
@@ -3900,7 +4080,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_261",
+    "id": "unit_273",
     "unit_number": "3118B",
     "council": "National Capital Area",
     "expected_time": "13:00",
@@ -3915,7 +4095,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_262",
+    "id": "unit_274",
     "unit_number": "4311",
     "council": "North Florida",
     "expected_time": "11:30",
@@ -3930,7 +4110,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_263",
+    "id": "unit_275",
     "unit_number": "4402A",
     "council": "Alamo Area",
     "expected_time": "09:00",
@@ -3945,7 +4125,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_264",
+    "id": "unit_276",
     "unit_number": "4402A",
     "council": "Alamo Area",
     "expected_time": "09:00",
@@ -3960,7 +4140,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_265",
+    "id": "unit_277",
     "unit_number": "4402A",
     "council": "Alamo Area",
     "expected_time": "09:00",
@@ -3975,7 +4155,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_266",
+    "id": "unit_278",
     "unit_number": "4404A",
     "council": "Alamo Area",
     "expected_time": "09:00",
@@ -3990,7 +4170,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_267",
+    "id": "unit_279",
     "unit_number": "4405A",
     "council": "Alamo Area",
     "expected_time": "09:00",
@@ -4005,7 +4185,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_268",
+    "id": "unit_280",
     "unit_number": "4405B",
     "council": "Black Warrior",
     "expected_time": "14:00",
@@ -4020,7 +4200,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_269",
+    "id": "unit_281",
     "unit_number": "3132A",
     "council": "Sioux",
     "expected_time": "10:00",
@@ -4035,7 +4215,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_270",
+    "id": "unit_282",
     "unit_number": "4326A",
     "council": "Crossroads of the West",
     "expected_time": "09:00",
@@ -4050,7 +4230,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_271",
+    "id": "unit_283",
     "unit_number": "4325",
     "council": "Crossroads of the West",
     "expected_time": "09:00",
@@ -4065,7 +4245,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_272",
+    "id": "unit_284",
     "unit_number": "4301",
     "council": "Crossroads of the West",
     "expected_time": "09:00",
@@ -4080,7 +4260,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_273",
+    "id": "unit_285",
     "unit_number": "3304",
     "council": "Tidewater",
     "expected_time": "14:00",
@@ -4095,7 +4275,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_274",
+    "id": "unit_286",
     "unit_number": "4313A",
     "council": "Golden Spread",
     "expected_time": "13:30",
@@ -4110,7 +4290,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_275",
+    "id": "unit_287",
     "unit_number": "4313B",
     "council": "Golden Spread",
     "expected_time": "13:30",
@@ -4125,7 +4305,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_276",
+    "id": "unit_288",
     "unit_number": "4211A",
     "council": "Cherokee Area",
     "expected_time": "15:30",
@@ -4140,7 +4320,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_277",
+    "id": "unit_289",
     "unit_number": "4211A",
     "council": "Cherokee Area",
     "expected_time": "15:30",
@@ -4155,7 +4335,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_278",
+    "id": "unit_290",
     "unit_number": "4210B",
     "council": "Cherokee Area",
     "expected_time": "15:30",
@@ -4170,7 +4350,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_279",
+    "id": "unit_291",
     "unit_number": "4210B",
     "council": "Cherokee Area",
     "expected_time": "15:30",
@@ -4185,7 +4365,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_280",
+    "id": "unit_292",
     "unit_number": "4220",
     "council": "Cape Fear",
     "expected_time": "11:30",
@@ -4200,7 +4380,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_281",
+    "id": "unit_293",
     "unit_number": "4220",
     "council": "Cape Fear",
     "expected_time": "11:30",
@@ -4215,7 +4395,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_282",
+    "id": "unit_294",
     "unit_number": "4220",
     "council": "Cape Fear",
     "expected_time": "11:30",
@@ -4230,7 +4410,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_283",
+    "id": "unit_295",
     "unit_number": "3319A",
     "council": "Patriots' Path",
     "expected_time": "10:00",
@@ -4245,7 +4425,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_284",
+    "id": "unit_296",
     "unit_number": "3322B",
     "council": "Patriots' Path",
     "expected_time": "10:00",
@@ -4260,7 +4440,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_285",
+    "id": "unit_297",
     "unit_number": "3320",
     "council": "Patriots' Path",
     "expected_time": "10:00",
@@ -4275,7 +4455,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_286",
+    "id": "unit_298",
     "unit_number": "3320",
     "council": "Patriots' Path",
     "expected_time": "18:00",
@@ -4290,7 +4470,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_287",
+    "id": "unit_299",
     "unit_number": "3321",
     "council": "Patriots' Path",
     "expected_time": "10:00",
@@ -4305,7 +4485,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_288",
+    "id": "unit_300",
     "unit_number": "3224B",
     "council": "Sagamore",
     "expected_time": "14:30",
@@ -4320,7 +4500,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_289",
+    "id": "unit_301",
     "unit_number": "3303",
     "council": "Minsi Trails",
     "expected_time": "15:00",
@@ -4335,7 +4515,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_290",
+    "id": "unit_302",
     "unit_number": "3302B",
     "council": "Minsi Trails",
     "expected_time": "15:00",
@@ -4350,7 +4530,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_291",
+    "id": "unit_303",
     "unit_number": "3326",
     "council": "Greater Hudson Valley",
     "expected_time": "09:45",
@@ -4365,7 +4545,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_292",
+    "id": "unit_304",
     "unit_number": "3316",
     "council": "Jersey Shore",
     "expected_time": "05:30",
@@ -4380,7 +4560,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_293",
+    "id": "unit_305",
     "unit_number": "4244B",
     "council": "Piedmont",
     "expected_time": "12:00",
@@ -4395,7 +4575,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_294",
+    "id": "unit_306",
     "unit_number": "4244B",
     "council": "Piedmont",
     "expected_time": "12:00",
@@ -4410,7 +4590,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_295",
+    "id": "unit_307",
     "unit_number": "4244B",
     "council": "Piedmont",
     "expected_time": "12:00",
@@ -4425,7 +4605,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_296",
+    "id": "unit_308",
     "unit_number": "3124",
     "council": "Northeastern Pennsylvania",
     "expected_time": "08:00",
@@ -4440,7 +4620,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_297",
+    "id": "unit_309",
     "unit_number": "3243A",
     "council": "Greater New York",
     "expected_time": "15:00",
@@ -4455,7 +4635,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_298",
+    "id": "unit_310",
     "unit_number": "4302",
     "council": "Crossroads of the West",
     "expected_time": "09:00",
@@ -4470,7 +4650,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_299",
+    "id": "unit_311",
     "unit_number": "4337",
     "council": "Pacific Skyline",
     "expected_time": "11:30",
@@ -4485,7 +4665,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_300",
+    "id": "unit_312",
     "unit_number": "4333B",
     "council": "Pacific Skyline",
     "expected_time": "11:30",
@@ -4500,7 +4680,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_301",
+    "id": "unit_313",
     "unit_number": "3233B",
     "council": "Dan Beard",
     "expected_time": "11:00",
@@ -4515,7 +4695,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_302",
+    "id": "unit_314",
     "unit_number": "4321B",
     "council": "Cascade Pacific",
     "expected_time": "10:30",
@@ -4530,7 +4710,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_303",
+    "id": "unit_315",
     "unit_number": "3215B",
     "council": "Michigan Crossroads",
     "expected_time": "14:00",
@@ -4545,7 +4725,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_304",
+    "id": "unit_316",
     "unit_number": "4212B",
     "council": "East Carolina",
     "expected_time": "12:30",
@@ -4560,7 +4740,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_305",
+    "id": "unit_317",
     "unit_number": "3340",
     "council": "Blackhawk Area",
     "expected_time": "10:00",
@@ -4575,7 +4755,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_306",
+    "id": "unit_318",
     "unit_number": "3312B",
     "council": "Twin Rivers",
     "expected_time": "11:00",
@@ -4590,7 +4770,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_307",
+    "id": "unit_319",
     "unit_number": "3312B",
     "council": "Twin Rivers",
     "expected_time": "11:00",
@@ -4605,7 +4785,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_308",
+    "id": "unit_320",
     "unit_number": "3313",
     "council": "Twin Rivers",
     "expected_time": "11:00",
@@ -4620,7 +4800,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_309",
+    "id": "unit_321",
     "unit_number": "3102B",
     "council": "Lake Erie",
     "expected_time": "13:30",
@@ -4635,7 +4815,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_310",
+    "id": "unit_322",
     "unit_number": "3247",
     "council": "Theodore Roosevelt",
     "expected_time": "16:00",
@@ -4650,7 +4830,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_311",
+    "id": "unit_323",
     "unit_number": "3248B",
     "council": "Theodore Roosevelt",
     "expected_time": "16:00",
@@ -4665,7 +4845,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_312",
+    "id": "unit_324",
     "unit_number": "3305",
     "council": "Tidewater",
     "expected_time": "14:00",
@@ -4680,7 +4860,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_313",
+    "id": "unit_325",
     "unit_number": "4422",
     "council": "Central Florida",
     "expected_time": "07:00",
@@ -4695,7 +4875,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_314",
+    "id": "unit_326",
     "unit_number": "4409A",
     "council": "Central Florida",
     "expected_time": "07:00",
@@ -4710,7 +4890,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_315",
+    "id": "unit_327",
     "unit_number": "4218B",
     "council": "Old North State",
     "expected_time": "10:00",
@@ -4725,7 +4905,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_316",
+    "id": "unit_328",
     "unit_number": "4218B",
     "council": "Old North State",
     "expected_time": "10:00",
@@ -4740,7 +4920,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_317",
+    "id": "unit_329",
     "unit_number": "4218B",
     "council": "Old North State",
     "expected_time": "10:00",
@@ -4755,7 +4935,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_318",
+    "id": "unit_330",
     "unit_number": "4216",
     "council": "Indian Nations",
     "expected_time": "09:00",
@@ -4770,7 +4950,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_319",
+    "id": "unit_331",
     "unit_number": "4218A",
     "council": "Indian Nations",
     "expected_time": "09:00",
@@ -4785,7 +4965,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_320",
+    "id": "unit_332",
     "unit_number": "4222B",
     "council": "Indian Nations",
     "expected_time": "09:00",
@@ -4800,7 +4980,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_321",
+    "id": "unit_333",
     "unit_number": "4415B",
     "council": "Sam Houston Area",
     "expected_time": "15:15",
@@ -4815,7 +4995,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_322",
+    "id": "unit_334",
     "unit_number": "3307",
     "council": "Daniel Webster",
     "expected_time": "12:00",
@@ -4830,7 +5010,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_323",
+    "id": "unit_335",
     "unit_number": "4334",
     "council": "Aloha",
     "expected_time": "11:30",
@@ -4845,7 +5025,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_324",
+    "id": "unit_336",
     "unit_number": "4335",
     "council": "Aloha",
     "expected_time": "11:30",
@@ -4860,7 +5040,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_325",
+    "id": "unit_337",
     "unit_number": "4234",
     "council": "Georgia-Carolina",
     "expected_time": "14:30",
@@ -4875,7 +5055,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_326",
+    "id": "unit_338",
     "unit_number": "4234",
     "council": "Georgia-Carolina",
     "expected_time": "14:30",
@@ -4890,7 +5070,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_327",
+    "id": "unit_339",
     "unit_number": "4234",
     "council": "Georgia-Carolina",
     "expected_time": "14:30",
@@ -4905,7 +5085,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_328",
+    "id": "unit_340",
     "unit_number": "4205",
     "council": "Northern Star",
     "expected_time": "13:00",
@@ -4920,7 +5100,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_329",
+    "id": "unit_341",
     "unit_number": "4206",
     "council": "Northern Star",
     "expected_time": "13:30",
@@ -4935,7 +5115,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_330",
+    "id": "unit_342",
     "unit_number": "4207",
     "council": "Northern Star",
     "expected_time": "13:45",
@@ -4950,7 +5130,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_331",
+    "id": "unit_343",
     "unit_number": "3249",
     "council": "Longhouse",
     "expected_time": "18:15",
@@ -4965,7 +5145,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_332",
+    "id": "unit_344",
     "unit_number": "3249",
     "council": "Longhouse",
     "expected_time": "18:15",
@@ -4980,7 +5160,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_333",
+    "id": "unit_345",
     "unit_number": "4211B",
     "council": "Cherokee Area",
     "expected_time": "15:30",
@@ -4995,7 +5175,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_334",
+    "id": "unit_346",
     "unit_number": "4211B",
     "council": "Cherokee Area",
     "expected_time": "15:30",
@@ -5010,7 +5190,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_335",
+    "id": "unit_347",
     "unit_number": "3334",
     "council": "Bay-Lakes",
     "expected_time": "11:45",
@@ -5025,7 +5205,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_336",
+    "id": "unit_348",
     "unit_number": "3335",
     "council": "Bay-Lakes",
     "expected_time": "11:45",
@@ -5040,7 +5220,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_337",
+    "id": "unit_349",
     "unit_number": "3312A",
     "council": "Heart of Virginia",
     "expected_time": "12:00",
@@ -5055,7 +5235,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_338",
+    "id": "unit_350",
     "unit_number": "3311",
     "council": "Heart of Virginia",
     "expected_time": "12:00",
@@ -5070,7 +5250,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_339",
+    "id": "unit_351",
     "unit_number": "3311",
     "council": "Heart of Virginia",
     "expected_time": "12:00",
@@ -5085,12 +5265,27 @@
     "onsite_time": null
   },
   {
-    "id": "unit_340",
+    "id": "unit_352",
+    "unit_number": "3245",
+    "council": "Greater New York",
+    "expected_time": "14:00",
+    "transport": "Motor Coach",
+    "unit_type": "Scouts BSA - Family Troop",
+    "basecamp": "Charlie",
+    "subcamp": "Charlie-2",
+    "notes": "Bus will leave Narrowsburg at 5am Wednesday, take I-81 \u2013 and stop at West Virginia Welcome Safety Center at approximately 9am where the Relay driver will be waiting to take over. Remaining trip to Summit Bechtel is approx. 4.5 hours.",
+    "status": "Not arrived",
+    "rwc_time": null,
+    "south_gate_time": null,
+    "onsite_time": null
+  },
+  {
+    "id": "unit_353",
     "unit_number": "4242A",
     "council": "Atlanta Area",
     "expected_time": "09:00",
     "transport": "Motor Coach",
-    "unit_type": "Scouts BSA - Boy Troop",
+    "unit_type": "Scouts BSA - Family Troop",
     "basecamp": "Delta",
     "subcamp": "Delta-2",
     "notes": "Northeast Georgia Council will be arriving and departing with us",
@@ -5100,7 +5295,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_341",
+    "id": "unit_354",
     "unit_number": "4204B",
     "council": "Coastal Carolina",
     "expected_time": "12:00",
@@ -5115,7 +5310,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_342",
+    "id": "unit_355",
     "unit_number": "3111A",
     "council": "Laurel Highlands",
     "expected_time": "10:00",
@@ -5130,7 +5325,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_343",
+    "id": "unit_356",
     "unit_number": "3227B",
     "council": "Coronado Area",
     "expected_time": "13:00",
@@ -5145,7 +5340,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_344",
+    "id": "unit_357",
     "unit_number": "3227B",
     "council": "Coronado Area",
     "expected_time": "13:00",
@@ -5160,7 +5355,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_345",
+    "id": "unit_358",
     "unit_number": "3227B",
     "council": "Coronado Area",
     "expected_time": "13:00",
@@ -5175,7 +5370,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_346",
+    "id": "unit_359",
     "unit_number": "3243B",
     "council": "Greater New York",
     "expected_time": "15:00",
@@ -5190,7 +5385,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_347",
+    "id": "unit_360",
     "unit_number": "4406B",
     "council": "Great Smoky Mountain",
     "expected_time": "13:30",
@@ -5205,7 +5400,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_348",
+    "id": "unit_361",
     "unit_number": "4344B",
     "council": "Northern Lights",
     "expected_time": "16:00",
@@ -5220,7 +5415,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_349",
+    "id": "unit_362",
     "unit_number": "4316B",
     "council": "Chippewa Valley",
     "expected_time": "13:30",
@@ -5235,7 +5430,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_350",
+    "id": "unit_363",
     "unit_number": "4324A",
     "council": "Greater Colorado",
     "expected_time": "10:00",
@@ -5250,7 +5445,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_351",
+    "id": "unit_364",
     "unit_number": "4213B",
     "council": "Occoneechee",
     "expected_time": "12:30",
@@ -5265,7 +5460,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_352",
+    "id": "unit_365",
     "unit_number": "4222A",
     "council": "Conquistador",
     "expected_time": "12:00",
@@ -5280,7 +5475,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_353",
+    "id": "unit_366",
     "unit_number": "4222A",
     "council": "Conquistador",
     "expected_time": "12:00",
@@ -5295,7 +5490,7 @@
     "onsite_time": null
   },
   {
-    "id": "unit_354",
+    "id": "unit_367",
     "unit_number": "4245B",
     "council": "West Tennessee Area",
     "expected_time": "15:00",
