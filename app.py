@@ -356,7 +356,13 @@ if transport_filter != "All transport":
         display_df["transport"].str.lower().str.contains(keyword, na=False)
     ]
 
-display_df = display_df.sort_values("status")
+# display_df = display_df.sort_values("status")
+display_df = display_df.sort_values(
+    "rwc_time",
+    ascending=False,        # most recent at the top
+    na_position="last"      # blanks at the bottom
+)
+
 
 # Build HTML table for rich status badges
 table_rows = []
